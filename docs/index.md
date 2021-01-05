@@ -1,4 +1,4 @@
-# Eveeye Explorerchoes Docs
+# Eveeye Echoes Docs
 
    
 Interactive intel map system and chain mapping forfor [Eve Echoes](https://www.eveechoes.com/). A game in the world of [Eve Online](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
@@ -52,7 +52,7 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTI2NzU2LDE0NDUzNjc5NDcsLTE2MT
+eyJoaXN0b3J5IjpbNTc1NjQyMTI2LDE0NDUzNjc5NDcsLTE2MT
 U2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIzNDEz
 Mjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLDE0OTAyODY0ODEsMT
 Q2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMy
