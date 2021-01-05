@@ -18,11 +18,11 @@ Interactive intel map system and chain mapping forfor [Eve Echoes](https://www.e
 
 ## Platforms
 
-[Browser](https://echoes.eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye&hl=en) and [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/)
+[Browser](https://echoes.eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye&hl=en) 
 
 ## Support & Social
 
-Join Eveeye <a href="https://discord.gg/bg4mSJ3rSuS3yAUJMZQx">Discord</a><br>
+Join Eveeye <a href="https://discord.gg/S3yAUJMZQx">Discord</a><br>
 Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br>
 <!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
 You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too
@@ -46,9 +46,9 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNzA2ODcxLDE0NDUzNjc5NDcsLTE2MT
-U2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIzNDEz
-Mjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLDE0OTAyODY0ODEsMT
-Q2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMy
-MjA5LC0xNDQzODc3MjI2XX0=
+eyJoaXN0b3J5IjpbLTcxMDM0ODM4NCwxNDQ1MzY3OTQ3LC0xNj
+E1NjkwMDM5LC00NDAxODUwNzMsLTk0NTE5Mzk4NSwtMTgyMzQx
+MzI3NiwtODYwMDQyNzM2LDkxODUxMzc1MiwxNDkwMjg2NDgxLD
+E0NjM4NzM5NjQsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xNDIz
+MjIwOSwtMTQ0Mzg3NzIyNl19
 -->
