@@ -9,18 +9,12 @@ Interactive intel map system and chain mapping forfor [Eve Echoes](https://www.e
 ## Features
 
  - Travel and tactical companion of New Eden
- - [Search](https://eveeye.readthedocs.io/en/latest/ui/search/) for places, stations or agents
- - Get comprehensive
- - Get [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)
- - [Chain-mapping](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) including connected k-space
- - Track [Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)
- - [Configure your maps](https://eveeye.readthedocs.io/en/latest/map/layout/) to display live data
- - [Track](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) your ingame location
- - [Set Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) to the eve clientonfigure your maps](https://eveeye.readthedocs.io/en/latest/map/layout/) to display live data
- - Find [Routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) using your chain, jumpbridges and Thera
- - [Share data](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) with your fellow pilots
- - Plot ingame [Intel channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) and get notified 
- - Plot your [Jump-range](https://eveeye.readthedocs.io/en/latest/ui/settings/#Jump)
+ - [Search](https://eveeye.readthedocs.io/en/latest/ui/search/) for places
+  - Get [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)
+ - Find [Routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) 
+ - [Share data](https://eveeye.readthedocs.io/en/latest/data/database/) with your fellow pilots
+
+
 
 ## Platforms
 
@@ -52,9 +46,9 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY2NTczNTUsMTQ0NTM2Nzk0NywtMT
-YxNTY5MDAzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLTE4MjM0
-MTMyNzYsLTg2MDA0MjczNiw5MTg1MTM3NTIsMTQ5MDI4NjQ4MS
-wxNDYzODczOTY0LDE2NzAyNTU1MzAsMTA2NjE1NTEyMiwtMTQy
-MzIyMDksLTE0NDM4NzcyMjZdfQ==
+eyJoaXN0b3J5IjpbNjYyNzA2ODcxLDE0NDUzNjc5NDcsLTE2MT
+U2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIzNDEz
+Mjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLDE0OTAyODY0ODEsMT
+Q2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMy
+MjA5LC0xNDQzODc3MjI2XX0=
 -->
