@@ -3,9 +3,7 @@ Create your own data sets Custom display on maps.
 
 !!! Wata sharning "Alpha Version"
     Feature still under development.
-
-For Eveeye Echoes map sharing [check this page please](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
-    
+   
 ## Creating a set
 Enter a name for the set in the input field and hit enter. 
 Your set and a tab for it were created(Echoes)
@@ -100,11 +98,11 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk4NDkxNDIsNTUzMDYwNTA1LC04ND
-Y0OTY0MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1
-NzEsLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMT
-M2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5
-ODY3LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MC
-wtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIx
-MjU2NzI1MzJdfQ==
+eyJoaXN0b3J5IjpbMTUxNDQ1NzE1MSwtMjAzOTg0OTE0Miw1NT
+MwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNTgzNDI2
+NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0MywtMT
+g3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAz
+NzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3Ny
+wyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0z
+Njg1NjIxNDVdfQ==
 -->
