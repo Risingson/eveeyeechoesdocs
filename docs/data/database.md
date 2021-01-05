@@ -93,12 +93,14 @@ You for example could use Google Sheets to maintain the data.
 Using `File > Publish to the web` you can get the url to paste into the `External data` field:
 
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_publishCSV.png)
-![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_exampleSet.png) features are quite new. Also there is an Eveeye discord at [discord.gg/bg4mSJ3rSu](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/bg4mSJ3rSu")
+![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_exampleSet.png) 
+
+Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk1NzEzODAsNTUzMDYwNTA1LC04ND
+eyJoaXN0b3J5IjpbLTIwMzk4NDkxNDIsNTUzMDYwNTA1LC04ND
 Y0OTY0MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1
 NzEsLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMT
 M2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5
