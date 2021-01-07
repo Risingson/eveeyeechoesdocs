@@ -31,7 +31,7 @@ You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointe
 I am happy about any feedback.
 
 There is a [Feedback Forum](https://feedback.userreport.com/ad67f34b-9307-4c42-9cff-b38c932cc732/#ideas/popular)<br>
-You can [Submit Bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) there aswell<br>
+You can [Submit Bugs](https://feedback.userreport.com/ad67f34b-9307-4c42-9cff-b38c932cc732/#submit/bug) there aswell<br>
 Or just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>
 
 ## Sponsorship
@@ -46,9 +46,9 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAzNjI3NCwtNzEwMzQ4Mzg0LDE0ND
-UzNjc5NDcsLTE2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkz
-OTg1LC0xODIzNDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLD
-E0OTAyODY0ODEsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYx
-NTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3MjI2XX0=
+eyJoaXN0b3J5IjpbLTk1OTg1NTczLC03MTAzNDgzODQsMTQ0NT
+M2Nzk0NywtMTYxNTY5MDAzOSwtNDQwMTg1MDczLC05NDUxOTM5
+ODUsLTE4MjM0MTMyNzYsLTg2MDA0MjczNiw5MTg1MTM3NTIsMT
+Q5MDI4NjQ4MSwxNDYzODczOTY0LDE2NzAyNTU1MzAsMTA2NjE1
+NTEyMiwtMTQyMzIyMDksLTE0NDM4NzcyMjZdfQ==
 -->
