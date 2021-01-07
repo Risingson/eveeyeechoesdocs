@@ -9,16 +9,11 @@ Interactive intel map system and chain mapping forfor [Eve Echoes](https://www.e
 ## Features
 
  - Travel and tactical companion of New Eden
- - [Search](https://eveeyeechoes.readthedocs.io/en/latest/ui/search/) for places
-  - Get [Info on solarsystems](https://eveeyeechoes.readthedocs.io/en/latest/ui/solarsystem-info/)
- - Find [Routes](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints/) 
- - [Share data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/) with your fellow pilots
-
  - Universe and Regional Maps
  - Global [Search](https://eveeyeechoes.readthedocs.io/en/latest/ui/search/) for solarsystems and planetary materials
  - [Custom map data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/)
  - Discord login to cloud store and share custom map data
- - Bookmarks
+ - [Bookmarks](https://eveeyeechoes.readthedocs.io/en/latest/ui/bookmarks/)
  - [Routing](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints/) and distances to bookmarked systems
 
 ## Platforms
@@ -51,9 +46,9 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE0OTA5NDcsLTcxMDM0ODM4NCwxND
-Q1MzY3OTQ3LC0xNjE1NjkwMDM5LC00NDAxODUwNzMsLTk0NTE5
-Mzk4NSwtMTgyMzQxMzI3NiwtODYwMDQyNzM2LDkxODUxMzc1Mi
-wxNDkwMjg2NDgxLDE0NjM4NzM5NjQsMTY3MDI1NTUzMCwxMDY2
-MTU1MTIyLC0xNDIzMjIwOSwtMTQ0Mzg3NzIyNl19
+eyJoaXN0b3J5IjpbLTgwMDU3MTI2MCwtNzEwMzQ4Mzg0LDE0ND
+UzNjc5NDcsLTE2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkz
+OTg1LC0xODIzNDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLD
+E0OTAyODY0ODEsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYx
+NTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3MjI2XX0=
 -->
