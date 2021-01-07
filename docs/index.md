@@ -9,12 +9,12 @@ Interactive intel map system and chain mapping forfor [Eve Echoes](https://www.e
 ## Features
 
  - Travel and tactical companion of New Eden
- - Universe and Regional Maps
+ - Universe and Regional [Maps](https://eveeyeechoes.readthedocs.io/en/latest/map/layout/)
  - Global [Search](https://eveeyeechoes.readthedocs.io/en/latest/ui/search/) for solarsystems and planetary materials
  - [Custom map data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/)
  - Discord [login](https://eveeyeechoes.readthedocs.io/en/latest/sync/character-management/) to cloud store and share custom map data
  - [Bookmarks](https://eveeyeechoes.readthedocs.io/en/latest/ui/bookmarks/)
- - [Routing](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints/) and distances to bookmarked systems
+ - [Routing](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints/) and [distances](https://eveeyeechoes.readthedocs.io/en/latest/ui/solarsystem-info/) to bookmarked systems
 
 ## Platforms
 
@@ -46,7 +46,7 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODk3NDgzNywtNzEwMzQ4Mzg0LDE0ND
+eyJoaXN0b3J5IjpbLTIxNDAzNjI3NCwtNzEwMzQ4Mzg0LDE0ND
 UzNjc5NDcsLTE2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkz
 OTg1LC0xODIzNDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLD
 E0OTAyODY0ODEsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYx
