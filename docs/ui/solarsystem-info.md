@@ -3,6 +3,13 @@
 
 Drag & drop tabs at the top to reorder.
 
+| Tab | Content |
+|--|--|
+| **CELESTIALS**| **Celestials:** Includes info about count of planets, moons, belts etc.|
+| **PLANETS** | **Planetary Production:** Displays materials per planet and their abundance. |
+| **STATIONS**| **Stations:** All stations in system.|
+| **DISTANCE**| **Destinations** Will display route to bookmarked systems. |
+
 <!--
 | Tab | Content |
 |--|--|
@@ -18,7 +25,7 @@ Drag & drop tabs at the top to reorder.
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzgzMTM2MCwtMTY1NzU5MzksLTQzMD
+eyJoaXN0b3J5IjpbMTA1ODUyMDgyMCwtMTY1NzU5MzksLTQzMD
 Q5ODcwMSwxNDEzMjUyNjAxLC0xMzkxODQ0MzkyLC03NTI3NzAw
 NTgsLTQ5NzA4MDkxMV19
 -->
