@@ -1,5 +1,7 @@
 # Solarsystem Info
 
+Drag & drop tabs to reorder.
+
 | Tab | Content |
 |--|--|
 | **CEL**| **Celestials:** Includes info about count of planets, moons, belts etc.|
@@ -13,7 +15,7 @@
 | **SIG**| **[Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)** and wormhole connections |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTc1OTM5LC00MzA0OTg3MDEsMTQxMz
-I1MjYwMSwtMTM5MTg0NDM5MiwtNzUyNzcwMDU4LC00OTcwODA5
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTM1MDEyNDIzMiwtMTY1NzU5MzksLTQzMD
+Q5ODcwMSwxNDEzMjUyNjAxLC0xMzkxODQ0MzkyLC03NTI3NzAw
+NTgsLTQ5NzA4MDkxMV19
 -->
