@@ -35,5 +35,6 @@ nav:
     - Custom Marks: sharing/custom-marks.md 
 - Miscellaneous:   
     - Release Notes: release-notes.md
+    - Developers: developers.md
     - Credits: credits.md
     - Privacy and Terms: privacy.md
