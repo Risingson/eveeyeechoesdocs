@@ -14,7 +14,7 @@ Start typing to search for various categories.
 |--|--|
 | HIGH | Shows high-sec systems only. |
 | LOW | Shows low-sec systems only. |
-| NULL| Shows null-sec systems only. |
+| NULL | Shows null-sec systems only. |
 | ABUNDANCE | Any richness to Perfect only. |
 | MATERIALS | Select the material or material combination you are searching for. |
 | SINGLE PLANET COMBI | Search for single planet material combinations. |
@@ -23,6 +23,6 @@ Start typing to search for various categories.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDY5NTc3MCw0Mjk0MjQ5NSw4ODg1Nz
+eyJoaXN0b3J5IjpbLTk2ODg0NjY0Miw0Mjk0MjQ5NSw4ODg1Nz
 I0OSwtODcyMDUwMjhdfQ==
 -->
