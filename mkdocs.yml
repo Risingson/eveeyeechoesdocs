@@ -7,7 +7,7 @@ markdown_extensions:
   - footnotes
 extra_css: [css/extra.css]
 nav:
-- Eveeye Explorer Docs: index.md
+- Eveeye Echoes Docs: index.md
 - User Interface:
     - Basics: ui/basic-ui.md
     - Settings: ui/settings.md
