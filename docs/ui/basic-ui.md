@@ -12,21 +12,21 @@
 ##### Main
 |  | |
 |--|--|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > | [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > | [Character management](https://eveeyeechoes.readthedocs.io/en/latest/sync/character-management/) |
 | <img src="https://eveeye.com/img/icon/Search-100.png" width="24" height="24" > | Search for places and planets |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > | [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
-| <img src="https://eveeye.com/img/icon/db.png" style="filter:invert(1)" width="24" height="24"> | [Custom Data](https://eveeye.readthedocs.io/en/latest/data/database/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > | [Data configuration](https://eveeyeechoes.readthedocs.io/en/latest/data/overview/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeyeechoes.readthedocs.io/en/latest/map/layout/) |
+| <img src="https://eveeye.com/img/icon/db.png" style="filter:invert(1)" width="24" height="24"> | [Custom Data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeyeechoes.readthedocs.io/en/latest/ui/settings/) |
 
 ##### Info
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> |  Toggle menu|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> | [Current route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeye.readthedocs.io/en/latest/ui/bookmarks) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> | [Current route](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeyeechoes.readthedocs.io/en/latest/sharing/cloud/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeyeechoes.readthedocs.io/en/latest/ui/solarsystem-info/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeyeechoes.readthedocs.io/en/latest/ui/bookmarks) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | The legend reflects your current map display options |
 
 ##### Other
@@ -40,14 +40,14 @@
 ##### Map menu
 |  |  |
 |--|--|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeyeechoes.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > | Switches between radar map and normal map |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > | Zoom map in an out |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
 
 ##### Route
-see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
+see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints)
 
 <!-- ## Other Icons
 
@@ -72,9 +72,9 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 !!! error "Mobile"
     Keyboard shortcuts do not apply to mobile apps.
 
-Hold SHIFT while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
-Hold CTRL while clicking a non-regional system to go to its map.<br>Hold CTRL while clicking a regional system to center the map on it.<br>
-Hold CTRL-SHIFT while clicking a system to set it radar map center.<br>
+Hold `SHIFT` while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
+Hold `CTRL` while clicking a non-regional system to go to its map.<br>Hold CTRL while clicking a regional system to center the map on it.<br>
+Hold `CTRL`-`SHIFT` while clicking a system to set it radar map center.<br>
 
 Just start typing to search for a place.
 
@@ -83,10 +83,10 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTc0NTUxNiwtMTMwNTc4NDIwOCwxNj
-IxOTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUy
-MSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1Nz
-I4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1
-NjMxLDQwNzI5MjM1NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLD
-M1MTEwMDkxMywxMTUwNjg4NTU2LC0yMDY3MDI1MzM2XX0=
+eyJoaXN0b3J5IjpbLTE4NTgxOTI3MDMsLTEzMDU3ODQyMDgsMT
+YyMTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1
+MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNT
+cyODI0ODI3LC0xMzI0NTA4NTA0LC0xMzAwNzUwNjU5LDM4MDI5
+NTYzMSw0MDcyOTIzNTQsMTYwMjEzNjY4MiwtMjEyNDk3NTQ4My
+wzNTExMDA5MTMsMTE1MDY4ODU1NiwtMjA2NzAyNTMzNl19
 -->
