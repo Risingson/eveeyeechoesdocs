@@ -12,8 +12,8 @@
 ##### Main
 |  | |
 |--|--|
-| <img src="https://eveeye.com/img/icons/Search-100.png" width="24" height="24" > | [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > | [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/) |
+| <img src="https://eveeye.com/img/icon/Search-100.png" width="24" height="24" > | Search for places and planets |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > | [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
@@ -84,10 +84,10 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTA5MjA3OSwtMTMwNTc4NDIwOCwxNj
-IxOTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUy
-MSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1Nz
-I4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1
-NjMxLDQwNzI5MjM1NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLD
-M1MTEwMDkxMywxMTUwNjg4NTU2LC0yMDY3MDI1MzM2XX0=
+eyJoaXN0b3J5IjpbMzY3NzYxMzcxLC0xMzA1Nzg0MjA4LDE2Mj
+E5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NTIx
+LC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3Mj
+gyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwzODAyOTU2
+MzEsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLTIxMjQ5NzU0ODMsMz
+UxMTAwOTEzLDExNTA2ODg1NTYsLTIwNjcwMjUzMzZdfQ==
 -->
