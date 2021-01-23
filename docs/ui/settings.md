@@ -7,6 +7,8 @@ With this mode enabled clicking ot tapping a solarsystem will not show the menu.
 ## User Interface
 #### User Interface scale
 Use + and - to scale the entire UI. In browsers you can use its native zoom aswell.
+#### Color Hue and Saturation
+Use + and - to set UI colors.
 
 ## Map
 #### Extended Map Layout
@@ -57,10 +59,10 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEwMjEzNSwtMjA1MDMyNjIxNiwxMj
-E5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3
-ODUsMTk5MDE2MTgyOSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMT
-M5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5
-OTY0NSwxNzk5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl
-19
+eyJoaXN0b3J5IjpbLTIxMjEzODQ1NTYsLTIwNTAzMjYyMTYsMT
+IxOTM4MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5NTYsODAwNDQ2
+Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5LDEzMzQzODc1MDYsLT
+EzOTc1MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5
+OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyOD
+ZdfQ==
 -->
