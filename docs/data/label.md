@@ -12,6 +12,7 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 Name of the NPC pirates owning the system/region.
 
 ## Own Data
+**Custom map data**<br>
 If you create [custom data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
 
 
@@ -23,7 +24,7 @@ Displays sun type within that system.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc2MzM4NTcsLTEzNTQwNzM5NSwxMT
-IzNTAyMjczLC0yMDI4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0
-NjI0MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbOTMyOTk0NzM0LC0xMzU0MDczOTUsMTEyMz
+UwMjI3MywtMjAyODkxNTAwMiwxOTE1OTM1NDY3LC0xMTg0NDYy
+NDM2LDE4NjU4MTI0NywxNjU1NjM4NTk5XX0=
 -->
