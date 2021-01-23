@@ -46,15 +46,6 @@ To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set'
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
 If you are using this feature you won't be able to edit data within eveeye.
 
-!!! Warning "In Development"
-    This feature is under development. Things are likely to change.
-    
-### Header 
-The data file should provide the `Last-Modified` header.
-
-!!! Information "In Development"
-    THIS IS NOT SETTLED but if there is no header there will be no automatic updating (which is not implemented yet) if that set is shared. Maybe there will be a possibility to add a date to the file itself but i am undecided on that.
-
 ### Data
 The data file has to contain the following keys:
 
@@ -83,11 +74,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_publishCSV.png)
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_exampleSet.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzUxNTA0NTksMTM5MzQ5NjQ0OCwtMj
-U2NTM0OTQsLTExMzMyNzIwMzksMjk2MjcxNDg5LDE1MTQ0NTcx
-NTEsLTIwMzk4NDkxNDIsNTUzMDYwNTA1LC04NDY0OTY0MjYsMT
-Q2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5
-OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIyNTk4NC
-wyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LDE0NjAx
-MTU4NDVdfQ==
+eyJoaXN0b3J5IjpbNjE1NTI2MTY0LC0xOTM1MTUwNDU5LDEzOT
+M0OTY0NDgsLTI1NjUzNDk0LC0xMTMzMjcyMDM5LDI5NjI3MTQ4
+OSwxNTE0NDU3MTUxLC0yMDM5ODQ5MTQyLDU1MzA2MDUwNSwtOD
+Q2NDk2NDI2LDE0NjI0Mzk2ODIsMTA1ODM0MjY2NSwxNDM5MDYw
+NTcxLC0xMDM5OTkwMjEyLDIzOTQwODQzLC0xODc1MzE0NTcsLT
+EzNjAyMjU5ODQsMjk5MDA1MjI1LDEwMTA4MDM3MjksLTI2NTE0
+OTg2N119
 -->
