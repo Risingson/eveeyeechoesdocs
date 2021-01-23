@@ -1,7 +1,7 @@
 # Developers
 
 ## Hook your data
-https://eveeye.readthedocs.io/en/latest/data/database/#external-data
+https://eveeyeechoes.readthedocs.io/en/latest/data/database/#external-data
 
 ## Mac and Linux Desktop App
 I got no installer available for those platforms. You can download the browser at [https://nwjs.io/downloads/](https://nwjs.io/downloads/). 
@@ -27,8 +27,8 @@ Eveeye Echoes mobile app-store links:<br>
 iOS: `itms-apps://itunes.apple.com/us/app/eveeye-for-eve-echoes/id1527744540`<br>
 Android: `https://market.android.com/details?id=com.eveeye.echoes`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkyNDgwOTksNjc0OTY0MSwtMjA3OD
-c4MjEyOCwtMTUxMDc3NzUwLDI3NzM5NzQ2NiwtMTMyNDYxNjQz
-LDYxMDI5ODg4NiwyMDUzNTI0OTAwLDQzMDc0MDY3MCwtMjYxMT
-EwNzk0XX0=
+eyJoaXN0b3J5IjpbNjQ0MDM1Njk2LC0xODI5MjQ4MDk5LDY3ND
+k2NDEsLTIwNzg3ODIxMjgsLTE1MTA3Nzc1MCwyNzczOTc0NjYs
+LTEzMjQ2MTY0Myw2MTAyOTg4ODYsMjA1MzUyNDkwMCw0MzA3ND
+A2NzAsLTI2MTExMDc5NF19
 -->
