@@ -1,23 +1,14 @@
 # Character Management
 Logging in characters via Discord is not necessary to use this app but unlocks the following features:
 
- - Track your ingame location
- - Interact with the EVE client like setting waypoints etc.
- - Sync your dataSynchronize your Database Sets across devices
- - [Share your data with other pilots
-<!-- - Display relayed ingame intel channel data -->
-
-## EVE Online Single-Sign-On (SSO) 
-This app uses the [EVE Online Single Sign On (SSO)](https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-) to authenticate characters. Since the ingame browser has been removed it is not possible to track your ingame location without a SSO login hence using an API KEY is not an option anymore.
-
-!!! success "Security"
-    Unless you enable the [Cloud](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) services no data gets stored on Eveeye server. If cloud sync is enabled only aDatabase sets with people on a Discord Server](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
+ - Synchronize your Custom Map Data across devices
+ - Share Custom Map Data with people on a Discord Server
 
 ## Discord Login 
 This app uses Discord oauth login to authenticate characters. 
 
 !!! success "Security"
-    A complementary key is stored on theveeye server. It alone cannot be used to authenticate a character or use any EVE Online [ESI](https://esi.evetech.net/) APIs.<br><br>If you got security concerns consider using [two factor authentication. It can be enabled in EVE account management: <a href="https://secure.eveonline.com/authenticator/" target="_blank" style="text-decoration: none;">https://secure.eveonline.com/authenticator/</a>
+    A complementary key is stored on the eveeye server. It alone cannot be used to authenticate a user.
 
 To revoke access for Eveeye goto [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication). It can be enabled in your Discord account settings under `My Account`.
 
@@ -37,11 +28,11 @@ If you updated your charactuser image you can update it by just authorizing the 
 To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/)voke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTM0ODQ3NCwtMTc4NDI4MjM4MywyMT
-M2NjIwNDg5LC0xNTE0Mjg0MjgsNzUwNjU1MTc4LC04Mzg3Njc5
-MTgsMTQ3NzMxODQ3NCwtMzQ2MjY2MjA3LC0xNTMxMTU2NDkwLC
-01NTc1MDM1MzEsLTg3NDc1OTM5OSwtMTUyMzE4MjI3NiwxMDYz
-NjUxMDExLC0xMzkxMDIxNDE3LDE4MzU2MzQ1NjEsLTM4MDQ5OD
-AyMCwxMjg2OTE5Nzg3LDEyMjY5OTc3MjgsMTY3OTY2ODA5M119
-
+eyJoaXN0b3J5IjpbLTEyMDE5Njk1OTAsLTE3ODQyODIzODMsMj
+EzNjYyMDQ4OSwtMTUxNDI4NDI4LDc1MDY1NTE3OCwtODM4NzY3
+OTE4LDE0NzczMTg0NzQsLTM0NjI2NjIwNywtMTUzMTE1NjQ5MC
+wtNTU3NTAzNTMxLC04NzQ3NTkzOTksLTE1MjMxODIyNzYsMTA2
+MzY1MTAxMSwtMTM5MTAyMTQxNywxODM1NjM0NTYxLC0zODA0OT
+gwMjAsMTI4NjkxOTc4NywxMjI2OTk3NzI4LDE2Nzk2NjgwOTNd
+fQ==
 -->
