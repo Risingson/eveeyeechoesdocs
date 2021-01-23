@@ -13,11 +13,11 @@ Configure the map representation with various options.
 | <img src="https://eveeye.com/img/docs/shape_node.png" width="90" height="107" border="0" style="">| [NODE](https://eveeyeechoes.readthedocs.io/en/latest/data/node/) | Center of solarsystem symbols |
 | <img src="https://eveeye.com/img/docs/shape_label.png" width="90" height="107" border="0" style="">| [LABEL](https://eveeyeechoes.readthedocs.io/en/latest/data/label/) | Text below system name|
 |<img src="https://eveeye.com/img/docs/shape_sector.png" width="90" height="107" border="0" style="">|  [SECTOR](https://eveeyeechoes.readthedocs.io/en/latest/data/sector/) | Background tiles |
-| <img src="https://eveeye.com/img/docs/shape_tag.png" width="90" height="107" border="0" style="">| [TAG](https://eveeyeechoes.readthedocs.io/en/latest/data/tag/) | Outline of solarsystem symbol |
+| <img src="https://eveeye.com/img/docs/shape_tag.png" width="90" height="107" border="0" style="">| [TAG](https://eveeyeechoes.readthedocs.io/en/latest/data/tag/) | Wide outline of solarsystem symbol |
 ||  [CON](https://eveeyeechoes.readthedocs.io/en/latest/data/constellation/) | Constellation outlines |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDUzNTk4MSwtOTY3OTEyMDQ1LC0xMT
-k3ODQxMDIyLDE4NTQ1ODMzODEsMTM0MDQwMTkwMSwxODc3NjIw
-NjE5LDM0ODkxMTIyNl19
+eyJoaXN0b3J5IjpbMTQyMTYxMjk4NCwxNzk0NTM1OTgxLC05Nj
+c5MTIwNDUsLTExOTc4NDEwMjIsMTg1NDU4MzM4MSwxMzQwNDAx
+OTAxLDE4Nzc2MjA2MTksMzQ4OTExMjI2XX0=
 -->
