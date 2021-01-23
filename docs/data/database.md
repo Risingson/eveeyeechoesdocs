@@ -32,6 +32,9 @@ Anyone else that is automahentically.
 ### Linear and Logarithmic color modes
 Only numeric values can be colored using these modes. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated. To understand how those modes' results look like it is best to enter some values and switch the modes. Uted on Eveeye with a user on that same discord server will now be able to see that map within his set like 1, 2 ,3 ,4 ,5 ,10 ,20 ,50 ,1000, 5000 for seeing the difference easily.
 
+## Map ownership
+Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
+
 ## Adding Data
 To add data you need to load a regional map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. With the details open clicking a system will sort that system to top of the list and put the cursor in the value's input field to edit right away. To bring up the normal solarsystem menu you can double-click it.
 
@@ -44,6 +47,12 @@ When opening a set's details the display options `Node` and `Label` will get act
     For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
     
 Choose to share your map-data with your share-group or publically.
+
+## Remove a map from sharing
+To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set's details. This will not remove the latest version from anyone who added that map but it would not get updated for them anymore. If removed by the ones using that legacy map it cannot be added back.
+
+## Map ownership
+Currently a map is owned by the user that created it originally. Also only that user can edit the map.
 
 ## External Data
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
@@ -77,9 +86,6 @@ Either a label or value should be present with a solarsystem.
 30004738,,1<br>
 Shenda,"Hello, "<br>
 30004271,3,World<br>
-
-
-
     
 ### Google Sheets
 You for example could use Google Sheets to maintain the data.
@@ -93,11 +99,11 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY5ODM3MDQsMTUxNDQ1NzE1MSwtMj
-AzOTg0OTE0Miw1NTMwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5
-NjgyLDEwNTgzNDI2NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMi
-wyMzk0MDg0MywtMTg3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAw
-NTIyNSwxMDEwODAzNzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0NS
-wtMTA2NDQxMDU3NywyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC0x
-MDc2MDE1Nzk0XX0=
+eyJoaXN0b3J5IjpbMTk2ODQ3MDg5MSwxNTE0NDU3MTUxLC0yMD
+M5ODQ5MTQyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
+ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
+IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1
+MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC
+0xMDY0NDEwNTc3LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEw
+NzYwMTU3OTRdfQ==
 -->
