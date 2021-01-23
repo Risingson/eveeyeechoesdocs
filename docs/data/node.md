@@ -25,10 +25,14 @@ Shows the custom node color you set via the [custom mark options](https://eveeye
 **Sun**<br>
 Displays type of suns.
 
+## Industry
+**Average Abundance**<br>
+Planetary material concentration in system. "Abundance" in Eveeye is a value comparing the output of planets across all of New Eden.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzNzc1OTMsLTEyMTE5MjUxNzcsNDc3NT
-M5OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUwMywt
-MTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OT
-czOTQyMzddfQ==
+eyJoaXN0b3J5IjpbMTIxNTAzNjgzMSw5MzM3NzU5MywtMTIxMT
+kyNTE3Nyw0Nzc1Mzk5OSw4MDkyMjk5ODgsMTY1NTM5NjA1Mywx
+NzUyODQyNTAzLC0xMDcyOTA3MzQ2LC0xNjMyMjM2MzI2LDE3Nz
+E5NDkzNDYsMTU5NzM5NDIzN119
 -->
