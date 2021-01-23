@@ -1,5 +1,6 @@
 # Waypoints
 
+
 ## Interaction
 To set a route you need to set a current system first. Do so by clicking a solarsystem and choose `Set Current System` from the menu.
 
@@ -35,7 +36,7 @@ Clicking the colored square or else in the route legend will trigger a menu with
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg4MDY0MjQsLTE4ODA4NjQ5NjcsLT
+eyJoaXN0b3J5IjpbLTExODc4OTY0OTAsLTE4ODA4NjQ5NjcsLT
 EwMzMwNTg3MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4
 Mjc1OCw2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC
 01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
