@@ -87,6 +87,7 @@ Currently a map is owned by the user that created it originally. Also only that 
 
 !!! help
     Please provide feedback and bugreport since Stheets
+### Google Sheets
 You for example could use Google Sheets to maintain the data.
 Using `File > Publish to the web` you can get the url to paste into the `External data` field:
 
@@ -98,11 +99,11 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDQ1NzE1MSwtMjAzOTg0OTE0Miw1NT
-MwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNTgzNDI2
-NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0MywtMT
-g3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAz
-NzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3Ny
-wyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0z
-Njg1NjIxNDVdfQ==
+eyJoaXN0b3J5IjpbMTI1MTIwNjkxOSwxNTE0NDU3MTUxLC0yMD
+M5ODQ5MTQyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
+ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
+IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1
+MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC
+0xMDY0NDEwNTc3LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEw
+NzYwMTU3OTRdfQ==
 -->
