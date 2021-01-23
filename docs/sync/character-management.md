@@ -1,4 +1,4 @@
-# Character Management (Echoes)
+# Character Management
 Logging in characters via Discord is not necessary to use this app but unlocks the following features:
 
  - Track your ingame location
@@ -37,11 +37,11 @@ If you updated your charactuser image you can update it by just authorizing the 
 To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/)voke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MzQ0NTY2LC0xNzg0MjgyMzgzLDIxMz
-Y2MjA0ODksLTE1MTQyODQyOCw3NTA2NTUxNzgsLTgzODc2Nzkx
-OCwxNDc3MzE4NDc0LC0zNDYyNjYyMDcsLTE1MzExNTY0OTAsLT
-U1NzUwMzUzMSwtODc0NzU5Mzk5LC0xNTIzMTgyMjc2LDEwNjM2
-NTEwMTEsLTEzOTEwMjE0MTcsMTgzNTYzNDU2MSwtMzgwNDk4MD
-IwLDEyODY5MTk3ODcsMTIyNjk5NzcyOCwxNjc5NjY4MDkzXX0=
+eyJoaXN0b3J5IjpbMTc3MTM0ODQ3NCwtMTc4NDI4MjM4MywyMT
+M2NjIwNDg5LC0xNTE0Mjg0MjgsNzUwNjU1MTc4LC04Mzg3Njc5
+MTgsMTQ3NzMxODQ3NCwtMzQ2MjY2MjA3LC0xNTMxMTU2NDkwLC
+01NTc1MDM1MzEsLTg3NDc1OTM5OSwtMTUyMzE4MjI3NiwxMDYz
+NjUxMDExLC0xMzkxMDIxNDE3LDE4MzU2MzQ1NjEsLTM4MDQ5OD
+AyMCwxMjg2OTE5Nzg3LDEyMjY5OTc3MjgsMTY3OTY2ODA5M119
 
 -->
