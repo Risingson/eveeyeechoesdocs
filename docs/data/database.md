@@ -23,6 +23,8 @@ Anyone else that is automahentically.
 ### Linear and Logarithmic color modes
 Only numeric values can be colored using these modes. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated. To understand how those modes' results look like it is best to enter some values and switch the modes. Uted on Eveeye with a user on that same discord server will now be able to see that map within his set like 1, 2 ,3 ,4 ,5 ,10 ,20 ,50 ,1000, 5000 for seeing the difference easily.
 
+### Color Settings
+The three sliders will set Hue, Saturation and Lightness of the color used for:
 |  |  |
 |--|--|
 | Color Low | This color is used for the lowest value of the set |
@@ -94,11 +96,11 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1ODEwMTc0LDI5NjI3MTQ4OSwxNTE0ND
-U3MTUxLC0yMDM5ODQ5MTQyLDU1MzA2MDUwNSwtODQ2NDk2NDI2
-LDE0NjI0Mzk2ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMD
-M5OTkwMjEyLDIzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5
-ODQsMjk5MDA1MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2NywxND
-YwMTE1ODQ1LC0xMDY0NDEwNTc3LDIwMTk3NTE4NDAsLTE1Njk2
-MjYwMjhdfQ==
+eyJoaXN0b3J5IjpbLTExMzMyNzIwMzksMjk2MjcxNDg5LDE1MT
+Q0NTcxNTEsLTIwMzk4NDkxNDIsNTUzMDYwNTA1LC04NDY0OTY0
+MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLT
+EwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIy
+NTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LD
+E0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2
+OTYyNjAyOF19
 -->
