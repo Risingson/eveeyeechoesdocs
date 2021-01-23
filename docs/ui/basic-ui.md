@@ -16,6 +16,7 @@
 | <img src="https://eveeye.com/img/icon/Search-100.png" width="24" height="24" > | Search for places and planets |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > | [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
 
 ##### Info
@@ -26,7 +27,6 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeye.readthedocs.io/en/latest/ui/bookmarks) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/inv.png" width="24" height="24"> | Incursions and Invasions|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | The legend reflects your current map display options |
 
 ##### Other
@@ -34,7 +34,6 @@
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Feedback and bugreports |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
 
@@ -84,10 +83,10 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NzYxMzcxLC0xMzA1Nzg0MjA4LDE2Mj
-E5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NTIx
-LC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3Mj
-gyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwzODAyOTU2
-MzEsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLTIxMjQ5NzU0ODMsMz
-UxMTAwOTEzLDExNTA2ODg1NTYsLTIwNjcwMjUzMzZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDM3MDYwMjksLTEzMDU3ODQyMDgsMT
+YyMTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1
+MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNT
+cyODI0ODI3LC0xMzI0NTA4NTA0LC0xMzAwNzUwNjU5LDM4MDI5
+NTYzMSw0MDcyOTIzNTQsMTYwMjEzNjY4MiwtMjEyNDk3NTQ4My
+wzNTExMDA5MTMsMTE1MDY4ODU1NiwtMjA2NzAyNTMzNl19
 -->
