@@ -7,13 +7,13 @@ Colors sectors after their owning NPC faction.
 
 ## Industry
 **Average Abundance**<br>
-Planetary material concentration in system. "Abundance" is calculat4ed 
+Planetary material concentration in system. "Abundance" is a value comparing the output of planets across all of New Eden.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIxODM5NjEsMzE4NjAzNzY3LDE4Nj
-U2Njc4NDAsLTYzMTE4NDY2NywtMTgwOTc5NzI5MCwxOTI1ODM0
-MDU2LC04NDkzNjEzMjcsLTEwOTQyMjY1MjgsLTEyOTg2NjQwNT
-ksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4NzkzNzUwMiwxMzA3
-MTcxNTM2XX0=
+eyJoaXN0b3J5IjpbMTkzMTAzMTk0MiwzMTg2MDM3NjcsMTg2NT
+Y2Nzg0MCwtNjMxMTg0NjY3LC0xODA5Nzk3MjkwLDE5MjU4MzQw
+NTYsLTg0OTM2MTMyNywtMTA5NDIyNjUyOCwtMTI5ODY2NDA1OS
+wtNTY4NTM4MTI5LDcxNDE1ODc0MSwtNjg3OTM3NTAyLDEzMDcx
+NzE1MzZdfQ==
 -->
