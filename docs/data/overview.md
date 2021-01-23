@@ -9,15 +9,15 @@ Configure the map representation with various options.
 | Representation| Name | Description |
 |--|--|--|
 | | [PRESETS](https://eveeyeechoes.readthedocs.io/en/latest/data/presets/) | Saved map configurations |
-| [pic]| [NODE OUTLINE](https://eveeyeechoes.readthedocs.io/en/latest/data/node/) | Outline of solarsystem symbols |
+| <img src="https://eveeye.com/img/docs/shape_outline.png" width="" height="" border="0" style="opacity:0.9;">| [NODE OUTLINE](https://eveeyeechoes.readthedocs.io/en/latest/data/node/) | Outline of solarsystem symbols |
 | [pic]| [NODE](https://eveeyeechoes.readthedocs.io/en/latest/data/node/) | Center of solarsystem symbols |
 | [pic]| [LABEL](https://eveeyeechoes.readthedocs.io/en/latest/data/label/) | Text below system name|
 |[pic]|  [SECTOR](https://eveeyeechoes.readthedocs.io/en/latest/data/sector/) | Background tiles |
-|[pic]|  [CON](https://eveeyeechoes.readthedocs.io/en/latest/data/constellation/) | Constellation outlines |
 | [pic]| [TAG](https://eveeyeechoes.readthedocs.io/en/latest/data/tag/) | Outline of solarsystem symbol |
+|[pic]|  [CON](https://eveeyeechoes.readthedocs.io/en/latest/data/constellation/) | Constellation outlines |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzkxMjA0NSwtMTE5Nzg0MTAyMiwxOD
-U0NTgzMzgxLDEzNDA0MDE5MDEsMTg3NzYyMDYxOSwzNDg5MTEy
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTg0Nzc0Nzk5MSwtOTY3OTEyMDQ1LC0xMT
+k3ODQxMDIyLDE4NTQ1ODMzODEsMTM0MDQwMTkwMSwxODc3NjIw
+NjE5LDM0ODkxMTIyNl19
 -->
