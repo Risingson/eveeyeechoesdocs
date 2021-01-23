@@ -1,8 +1,5 @@
 # Database Sets
-Create your own data sets Custom display on maps.
-
-!!! Wata sharning "Alpha Version"
-    Feature still under development.
+Create your own data sets to display on maps.
    
 ## Creating a set
 Enter a name for the set in the input field and hit enter. 
@@ -93,11 +90,11 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjUzNDk0LC0xMTMzMjcyMDM5LDI5Nj
-I3MTQ4OSwxNTE0NDU3MTUxLC0yMDM5ODQ5MTQyLDU1MzA2MDUw
-NSwtODQ2NDk2NDI2LDE0NjI0Mzk2ODIsMTA1ODM0MjY2NSwxND
-M5MDYwNTcxLC0xMDM5OTkwMjEyLDIzOTQwODQzLC0xODc1MzE0
-NTcsLTEzNjAyMjU5ODQsMjk5MDA1MjI1LDEwMTA4MDM3MjksLT
-I2NTE0OTg2NywxNDYwMTE1ODQ1LC0xMDY0NDEwNTc3LDIwMTk3
-NTE4NDBdfQ==
+eyJoaXN0b3J5IjpbLTI2MzU4NjY3MywtMjU2NTM0OTQsLTExMz
+MyNzIwMzksMjk2MjcxNDg5LDE1MTQ0NTcxNTEsLTIwMzk4NDkx
+NDIsNTUzMDYwNTA1LC04NDY0OTY0MjYsMTQ2MjQzOTY4MiwxMD
+U4MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5OTAyMTIsMjM5NDA4
+NDMsLTE4NzUzMTQ1NywtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMT
+AxMDgwMzcyOSwtMjY1MTQ5ODY3LDE0NjAxMTU4NDUsLTEwNjQ0
+MTA1NzddfQ==
 -->
