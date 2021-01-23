@@ -44,7 +44,7 @@ When opening a set's details the display options `Node` and `Label` will get act
 ## Sharing maps   
 Enter a discord server name you are joined on. Everybody on that server will have read only access to that set.
 
-## Remove a map from sharing
+### Remove a map from sharing
 To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set's details. This will not remove the latest version from anyone who added that map but it would not get updated for them anymore. If removed by the ones using that legacy map it cannot be added back.
 
 ## Map ownership
@@ -95,11 +95,11 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTkyMzMzOCwxNTE0NDU3MTUxLC0yMD
-M5ODQ5MTQyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
-ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
-IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1
-MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC
-0xMDY0NDEwNTc3LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEw
-NzYwMTU3OTRdfQ==
+eyJoaXN0b3J5IjpbMjk2MjcxNDg5LDE1MTQ0NTcxNTEsLTIwMz
+k4NDkxNDIsNTUzMDYwNTA1LC04NDY0OTY0MjYsMTQ2MjQzOTY4
+MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5OTAyMTIsMj
+M5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIyNTk4NCwyOTkwMDUy
+MjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LDE0NjAxMTU4NDUsLT
+EwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2OTYyNjAyOCwtMTA3
+NjAxNTc5NF19
 -->
