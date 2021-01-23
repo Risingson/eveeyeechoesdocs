@@ -79,14 +79,7 @@ Shenda,"Hello, "<br>
 30004271,3,World<br>
 
 
-### Googlst and may add that map to display.
-#### Remove a map from sharing
-To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set's details. This will not remove the latest version from anyone who added that map but it would not get updated for them anymore. If removed by the ones using that legacy map it cannot be added back.
-#### Map ownership
-Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
 
-!!! help
-    Please provide feedback and bugreport since Stheets
     
 ### Google Sheets
 You for example could use Google Sheets to maintain the data.
@@ -100,11 +93,11 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODg1ODc3NywxNTE0NDU3MTUxLC0yMD
-M5ODQ5MTQyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
-ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
-IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1
-MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC
-0xMDY0NDEwNTc3LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEw
-NzYwMTU3OTRdfQ==
+eyJoaXN0b3J5IjpbLTIwNTY5ODM3MDQsMTUxNDQ1NzE1MSwtMj
+AzOTg0OTE0Miw1NTMwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5
+NjgyLDEwNTgzNDI2NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMi
+wyMzk0MDg0MywtMTg3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAw
+NTIyNSwxMDEwODAzNzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0NS
+wtMTA2NDQxMDU3NywyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC0x
+MDc2MDE1Nzk0XX0=
 -->
