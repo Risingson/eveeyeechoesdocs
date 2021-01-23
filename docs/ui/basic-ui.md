@@ -16,7 +16,7 @@
 | <img src="https://eveeye.com/img/icon/Search-100.png" width="24" height="24" > | Search for places and planets |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > | [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
-| <img src="https://eveeye.com/img/icon/db.png" style="filter:invert(1)" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
+| <img src="https://eveeye.com/img/icon/db.png" style="filter:invert(1)" width="24" height="24"> | [Custom Data](https://eveeye.readthedocs.io/en/latest/data/database/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
 
 ##### Info
@@ -83,7 +83,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDMxOTE0NCwtMTMwNTc4NDIwOCwxNj
+eyJoaXN0b3J5IjpbLTk2NTc0NTUxNiwtMTMwNTc4NDIwOCwxNj
 IxOTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUy
 MSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1Nz
 I4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1
