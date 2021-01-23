@@ -2,16 +2,13 @@
 With sync active you got the possibility to set destinations/waypoints from Eveeye to the EVE client. 
 
 ## Interaction
-To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoint` or `Set Destination` or use the following icons:
+To set a route you need to set a current system first. Do so by clicking a solarsystem and choose `Set Current System` from the menu.
 
-|  |  |
-|--|--|
-| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png) | Set destination. This clears a current route. |
-| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png) | Add waypoint to the end of the current route.|
+
 
 In the menu you can also select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
 
-!!! attention "Ingame vs Eveeye route"
+!!! attention "Ingame vs Eveeye Echoes route"
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time. Eveeye will detect and re-calc the route displayed in eveeye if you took a different path though.
     
 #### Route Display
@@ -52,8 +49,8 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA4NjQ5NjcsLTEwMzMwNTg3MDksNj
-gyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4Mjc1OCw2Mzg3OTY0
-NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC01MjQ3MTM4MzgsLT
-Q0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
+eyJoaXN0b3J5IjpbLTExNDcxNTY5NjMsLTE4ODA4NjQ5NjcsLT
+EwMzMwNTg3MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4
+Mjc1OCw2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC
+01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
 -->
