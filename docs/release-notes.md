@@ -1,12 +1,10 @@
 # Release Notes
 
-#### 1.01.0 Release - Jan 2021
- - Universe and Regional Maps
- - Global Search for solarsystems and planetary materials
- - Custom map data
- - Discord login to cloud store and share custom map data
- - Bookmarks
- - Routing and distances to bookmarked systems
+#### Release 1.01.0 - Jan 2021
+- Added DATA tab to edit all custom data within a system 
+- NPC Pirate and Region options on universe map 
+- Enable adjacent systems in universe map settings 
+- Reorder infopane tabs (tablet only)
 
 #### Initial Release - Jan 2021
  - Universe and Regional Maps
@@ -20,11 +18,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4NzM5MjM5LC0xMTA2NTgxNTI1LDQ4OT
-k2OTA3NSwyMDA1NTA1NzUyLDEzNzMxOTk0OTAsMTMyMjM3NzI4
-OSwtMTcxMzU0MTg4MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMT
-g4MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1
-NTIsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNTUxMzM5ODQsLT
-ExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUxNDM4MywyMDI5MzAy
-MDUzXX0=
+eyJoaXN0b3J5IjpbLTg0Mjk2MDg1Nyw4Mzg3MzkyMzksLTExMD
+Y1ODE1MjUsNDg5OTY5MDc1LDIwMDU1MDU3NTIsMTM3MzE5OTQ5
+MCwxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLD
+c2MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5
+OTIsMTM5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OTExMjM3MDQsMT
+E1NTEzMzk4NCwtMTExMTc2MDk2MSwzMTU1OTc2NjMsOTk5NTE0
+MzgzXX0=
 -->
