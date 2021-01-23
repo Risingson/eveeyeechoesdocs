@@ -3,20 +3,19 @@
 Basically Eveeye apps do store all data locally (client-side). If you do not log into discord no data will ever get sent anywhere.
 
 ## Cloud Storage
-Logging into  enables you to backup and sync data amongst your own devices and would enable options to share data with other pilots.
+Logging into discord enables you to backup and sync data amongst your own devices<!-- and would enable options to share data with other pilots-->.
 
 !!! info
     The Cloud storage is hosted on eveeye's webhost [easyname](https://www.easyname.com/en).
 
-### Shared data
+<!--### Shared data
 - Your pilot's location and ship
 - Wormhole Connections
 - Signatures
-- Shared Custom Marks
-<!-- - Intel data via [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/) -->
+- Shared Custom Marks-->
 
 
-### Additionally backed up data
+### Backed up data
  - Map Presets
  - Bookmarks
  - Own Custom Marks
@@ -55,8 +54,8 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks plus their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwMjg4MjQxLC0xNjE2NDM3ODIxLDUwMT
-c2NTYzNSwtMTI0NDc5NzYzMSwtMTQzMTI4MDg1MSw0MTc0OTM3
-OTYsLTE0MDA3MjU4ODgsLTIzNTEzOTY1MiwxNjA0OTU1MTcxLC
-05MDMxNjk5MDFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjg2NDA3MywtMTYxNjQzNzgyMSw1MD
+E3NjU2MzUsLTEyNDQ3OTc2MzEsLTE0MzEyODA4NTEsNDE3NDkz
+Nzk2LC0xNDAwNzI1ODg4LC0yMzUxMzk2NTIsMTYwNDk1NTE3MS
+wtOTAzMTY5OTAxXX0=
 -->
