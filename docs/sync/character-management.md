@@ -25,14 +25,14 @@ To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/
 If you updated your charactuser image you can update it by just authorizing the user again. Also if a new version of Eveeye was installed sometimes it would need you to authorize your characters again to use new features.
 
 ## Revoking access
-To remove permissions voke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
+To revoke access for Eveeye goto the `Authorized Apps` within Discord user settings and hit `Deauthorize`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDU5MDc3LC03NDc2NzY2NjIsLTE3OD
-QyODIzODMsMjEzNjYyMDQ4OSwtMTUxNDI4NDI4LDc1MDY1NTE3
-OCwtODM4NzY3OTE4LDE0NzczMTg0NzQsLTM0NjI2NjIwNywtMT
-UzMTE1NjQ5MCwtNTU3NTAzNTMxLC04NzQ3NTkzOTksLTE1MjMx
-ODIyNzYsMTA2MzY1MTAxMSwtMTM5MTAyMTQxNywxODM1NjM0NT
-YxLC0zODA0OTgwMjAsMTI4NjkxOTc4NywxMjI2OTk3NzI4LDE2
-Nzk2NjgwOTNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjA4MzU4NTEsLTc0NzY3NjY2MiwtMT
+c4NDI4MjM4MywyMTM2NjIwNDg5LC0xNTE0Mjg0MjgsNzUwNjU1
+MTc4LC04Mzg3Njc5MTgsMTQ3NzMxODQ3NCwtMzQ2MjY2MjA3LC
+0xNTMxMTU2NDkwLC01NTc1MDM1MzEsLTg3NDc1OTM5OSwtMTUy
+MzE4MjI3NiwxMDYzNjUxMDExLC0xMzkxMDIxNDE3LDE4MzU2Mz
+Q1NjEsLTM4MDQ5ODAyMCwxMjg2OTE5Nzg3LDEyMjY5OTc3Mjgs
+MTY3OTY2ODA5M119
 -->
