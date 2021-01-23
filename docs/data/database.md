@@ -42,7 +42,7 @@ To add data you need to load a regional map. Opening a database set's details wi
 When opening a set's details the display options `Node` and `Label` will get activated automatically. You can  display your data via `Sectors` or `Tags` aswell. Please select them via the data displays menu. 
 
 ## Sharing maps   
-Choose to share your map-data with your share-group or publically.
+Enter a discord server name you are joined on. Everybody on that server will have read only access to that set.
 
 ## Remove a map from sharing
 To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set's details. This will not remove the latest version from anyone who added that map but it would not get updated for them anymore. If removed by the ones using that legacy map it cannot be added back.
@@ -95,7 +95,7 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTM1MzI1NSwxNTE0NDU3MTUxLC0yMD
+eyJoaXN0b3J5IjpbMTE0MTkyMzMzOCwxNTE0NDU3MTUxLC0yMD
 M5ODQ5MTQyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
 ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
 IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1
