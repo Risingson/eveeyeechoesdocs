@@ -1,7 +1,10 @@
 # Nodes
 Center color, text or logo of solarsystem shape.
 
-## Basic
+## Node Outlines
+Choose the graphical outline of solarsystems.
+
+## Basic node fills
 **Security**<br>
 Will display the solarsystem's security or average regional security on [Region Overview](https://eveeye.readthedocs.io/en/latest/map/layout/) map.
 
@@ -24,8 +27,8 @@ Displays type of suns.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE5MjUxNzcsNDc3NTM5OTksODA5Mj
-I5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUwMywtMTA3MjkwNzM0
-NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTczOTQyMzddfQ
-==
+eyJoaXN0b3J5IjpbLTE2OTc3MDA4MzksLTEyMTE5MjUxNzcsND
+c3NTM5OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUw
+MywtMTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LD
+E1OTczOTQyMzddfQ==
 -->
