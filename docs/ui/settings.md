@@ -27,7 +27,7 @@ Will display your route on the map after you used "Set Destination/Waypoint" fro
 #### Shortest/Secure/Insecure Route
 Set your preferred travel security. This should match your ingame setting.
 #### Avoid Systems
-Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown (that option is only there while [Client Sync](https://eveeyeechoes.readthedocs.io/en/latest/sync/client-synchronisation/) is activated). This should match your ingame setting since setting a system avoided in Eveeye does not set it avoided ingame and vice versa. 
+Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown. This should match your ingame setting. 
 #### Avoidance List
 Systems you set avoided are listed here. Clicking the system will let you remove it from the list.
 
@@ -38,10 +38,10 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 You can set names for your [Custom Marks](https://eveeyeechoes.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTE1NDU5OSwtMTMwNzc0NzE2MCwtMj
-A1MDMyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3
-NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyODc5NDEyMzksMT
-MzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4
-NzUxOTksMTM1OTk5OTY0NSwxNzk5MTg1MTk2LDEzMTE3NDI0OD
-QsMTgzMjE1NjI4Nl19
+eyJoaXN0b3J5IjpbLTEzNjI5MzQyNTIsLTEzMDc3NDcxNjAsLT
+IwNTAzMjYyMTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MDE4
+NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5LD
+EzMzQzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMzMz
+ODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQyND
+g0LDE4MzIxNTYyODZdfQ==
 -->
