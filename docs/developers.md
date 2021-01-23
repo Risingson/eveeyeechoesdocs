@@ -21,15 +21,14 @@ You can call Eveeye on iOS or Android from app version 3.00.0 via the custom-url
 `j` for radar map level <br>
 Check browser version urls for reference.<br><br>
 
-For example `eveautheveeye://?m=Delve&s=G-TT5V` will load Delve map with G-TTV5 centered. 
+For example `eveeyeechoes://?m=Delve&s=G-TT5V` will load Delve map with G-TTV5 centered. 
 
-Eveeye Explorer mobile app-store links:<br>
-iOS: `itms-apps://itunes.apple.com/us/app/eveeye/id1163904317`<br>
-Android: `https://market.android.com/details?id=com.eveeye`
-
+Eveeye Echoes mobile app-store links:<br>
+iOS: `itms-apps://itunes.apple.com/us/app/eveeye-for-eve-echoes/id1527744540`<br>
+Android: `https://market.android.com/details?id=com.eveeye.echoes`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTQyNDExLDY3NDk2NDEsLTIwNzg3OD
-IxMjgsLTE1MTA3Nzc1MCwyNzczOTc0NjYsLTEzMjQ2MTY0Myw2
-MTAyOTg4ODYsMjA1MzUyNDkwMCw0MzA3NDA2NzAsLTI2MTExMD
-c5NF19
+eyJoaXN0b3J5IjpbLTEwMTQ2NzEzNDYsNjc0OTY0MSwtMjA3OD
+c4MjEyOCwtMTUxMDc3NzUwLDI3NzM5NzQ2NiwtMTMyNDYxNjQz
+LDYxMDI5ODg4NiwyMDUzNTI0OTAwLDQzMDc0MDY3MCwtMjYxMT
+EwNzk0XX0=
 -->
