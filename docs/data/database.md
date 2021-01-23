@@ -3,8 +3,7 @@ Create your own data sets to display on maps.
    
 ## Creating a set
 Enter a name for the set in the input field and hit enter. 
-Your set and a tab for it were created(Echoes)
-When logged in database sets will get stored remotely and ywou are ready to edit its details:
+Your set and a tab for it will get created and you will be ready to edit its details:
 
 |  |  |
 |--|--|
@@ -90,11 +89,11 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzU4NjY3MywtMjU2NTM0OTQsLTExMz
-MyNzIwMzksMjk2MjcxNDg5LDE1MTQ0NTcxNTEsLTIwMzk4NDkx
-NDIsNTUzMDYwNTA1LC04NDY0OTY0MjYsMTQ2MjQzOTY4MiwxMD
-U4MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5OTAyMTIsMjM5NDA4
-NDMsLTE4NzUzMTQ1NywtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMT
-AxMDgwMzcyOSwtMjY1MTQ5ODY3LDE0NjAxMTU4NDUsLTEwNjQ0
-MTA1NzddfQ==
+eyJoaXN0b3J5IjpbNjI3OTc0MjM3LC0yNTY1MzQ5NCwtMTEzMz
+I3MjAzOSwyOTYyNzE0ODksMTUxNDQ1NzE1MSwtMjAzOTg0OTE0
+Miw1NTMwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNT
+gzNDI2NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0
+MywtMTg3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMD
+EwODAzNzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMTA2NDQx
+MDU3N119
 -->
