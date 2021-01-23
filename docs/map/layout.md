@@ -1,4 +1,4 @@
-# Map Types
+# Layout
 
 ### Universal 
 Map of New Eden.
@@ -20,7 +20,7 @@ A map of all regions of New Eden to navigate on a per region level.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzU1MDc1MSwtNjk3MjMxNjAwLDQzNT
+eyJoaXN0b3J5IjpbMTYyNDY0MDk4MCwtNjk3MjMxNjAwLDQzNT
 A2Nzg4MSwtNDUzMzE1NTk5LC0yMDc5OTg5Mzk1LC0xMzYwMzky
 NTYxLC04OTEyNzAzNjMsMTUxMTE4MjIyNSwtNDUwMjM2MjgyLD
 kxODUzNDQ3NCwxNDU5NDgxMzI2LC0xMjU0ODIxNzI3XX0=
