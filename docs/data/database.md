@@ -14,7 +14,8 @@ When logged in database sets will get stored remotely and ywou are ready to edit
 | Name | The name of the set is also displayed in the tabs |
 | Description | Describe the data the set holds |
 | Color Mode | Choose on how the data gets colored |
-| Color Low | Thld synchronize to any device you use eveeye from.
+| Color Low | This color is used for the lowest value of the set |
+| Color High | This color is used for the highest value of the set |
 
 ### Individual color mode
 Will color each distinct value or label with an own color. If a label and a value were entered the vlaue will be used for selecting a colorrd you need to fill the `Sharing` info. Enter a discord server name there and hit enter. If you are a part of that server it will get linked to it.
@@ -25,10 +26,6 @@ Only numeric values can be colored using these modes. The lowest and highest val
 
 ### Color Settings
 The three sliders will set Hue, Saturation and Lightness of the color used for:
-|  |  |
-|--|--|
-| Color Low | This color is used for the lowest value of the set |
-| Color High | This color is used for the highest value of the set |
 
 !!! Information "Low and high values"
     Lowest and highest values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only let me know (use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular) please). 
@@ -96,11 +93,11 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzMyNzIwMzksMjk2MjcxNDg5LDE1MT
-Q0NTcxNTEsLTIwMzk4NDkxNDIsNTUzMDYwNTA1LC04NDY0OTY0
-MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLT
-EwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIy
-NTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LD
-E0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2
-OTYyNjAyOF19
+eyJoaXN0b3J5IjpbLTI1NjUzNDk0LC0xMTMzMjcyMDM5LDI5Nj
+I3MTQ4OSwxNTE0NDU3MTUxLC0yMDM5ODQ5MTQyLDU1MzA2MDUw
+NSwtODQ2NDk2NDI2LDE0NjI0Mzk2ODIsMTA1ODM0MjY2NSwxND
+M5MDYwNTcxLC0xMDM5OTkwMjEyLDIzOTQwODQzLC0xODc1MzE0
+NTcsLTEzNjAyMjU5ODQsMjk5MDA1MjI1LDEwMTA4MDM3MjksLT
+I2NTE0OTg2NywxNDYwMTE1ODQ1LC0xMDY0NDEwNTc3LDIwMTk3
+NTE4NDBdfQ==
 -->
