@@ -15,16 +15,16 @@ Start typing to search for various categories.
 | HIGH | Shows high-sec systems only. |
 | LOW| Shows low-sec systems only. |
 | NULL| Shows null-sec systems only. |
-| ABUNDANCE | Set . |
-| REPAIR| Shows stations with a repair facility only. |
-| FACTORY| Shows stations with a factory facility only. |
-| LABORATORY| Shows stations with a lab facility only. |
+| ABUNDANCE | Any richness to Perfect only. |
+| MATERIALS | Shows stations with a repair facility only. |
+| SINGLE PLANET COMBI | Search for single planet material combinations |
+| SOLARSYSTEM COMBI | Searc |
 | FACTION WARFARE| Shows Faction Warfare corporation stations only. |
 | FACTION| Shows stations of selected faction only. |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODgxNzEzLDQyOTQyNDk1LDg4ODU3Mj
-Q5LC04NzIwNTAyOF19
+eyJoaXN0b3J5IjpbMjAzODQxNDk4OSw0Mjk0MjQ5NSw4ODg1Nz
+I0OSwtODcyMDUwMjhdfQ==
 -->
