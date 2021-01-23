@@ -19,20 +19,20 @@ To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedo
 
 To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove custom data un-install and re-install the app or clear browser cache.
 
-<!-- When using the cloud storage feature your user including the token stored to identify your char gets removed from cloud immediately. Your custom data will get deleted from cloud 30 days after char removal.
+<!-- When using the cloud storage feature your user including the token stored to identify your char gets removed from cloud immediately. Your custom data will get deleted from cloud 30 days after char removal. -->
 
 ## Re-authing
-If you updated your charactuser image you can update it by just authorizing the chauser again. Also if a new version of Eveeye was installed sometimes it would need you to authorize your characters again to use new features.
+If you updated your charactuser image you can update it by just authorizing the user again. Also if a new version of Eveeye was installed sometimes it would need you to authorize your characters again to use new features.
 
 ## Revoking access
 To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/)voke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY2MTYzMzgsLTE3ODQyODIzODMsMj
-EzNjYyMDQ4OSwtMTUxNDI4NDI4LDc1MDY1NTE3OCwtODM4NzY3
-OTE4LDE0NzczMTg0NzQsLTM0NjI2NjIwNywtMTUzMTE1NjQ5MC
-wtNTU3NTAzNTMxLC04NzQ3NTkzOTksLTE1MjMxODIyNzYsMTA2
-MzY1MTAxMSwtMTM5MTAyMTQxNywxODM1NjM0NTYxLC0zODA0OT
-gwMjAsMTI4NjkxOTc4NywxMjI2OTk3NzI4LDE2Nzk2NjgwOTNd
-fQ==
+eyJoaXN0b3J5IjpbLTc0NzY3NjY2MiwtMTc4NDI4MjM4MywyMT
+M2NjIwNDg5LC0xNTE0Mjg0MjgsNzUwNjU1MTc4LC04Mzg3Njc5
+MTgsMTQ3NzMxODQ3NCwtMzQ2MjY2MjA3LC0xNTMxMTU2NDkwLC
+01NTc1MDM1MzEsLTg3NDc1OTM5OSwtMTUyMzE4MjI3NiwxMDYz
+NjUxMDExLC0xMzkxMDIxNDE3LDE4MzU2MzQ1NjEsLTM4MDQ5OD
+AyMCwxMjg2OTE5Nzg3LDEyMjY5OTc3MjgsMTY3OTY2ODA5M119
+
 -->
