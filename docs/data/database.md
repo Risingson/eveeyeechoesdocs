@@ -87,6 +87,7 @@ Currently a map is owned by the user that created it originally. Also only that 
 
 !!! help
     Please provide feedback and bugreport since Stheets
+    
 ### Google Sheets
 You for example could use Google Sheets to maintain the data.
 Using `File > Publish to the web` you can get the url to paste into the `External data` field:
@@ -99,7 +100,7 @@ Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?am
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTIwNjkxOSwxNTE0NDU3MTUxLC0yMD
+eyJoaXN0b3J5IjpbMTU2ODg1ODc3NywxNTE0NDU3MTUxLC0yMD
 M5ODQ5MTQyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
 ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
 IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1
