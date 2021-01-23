@@ -1,5 +1,5 @@
-site_name: Eveeye Documentation
-repo_url: https://github.com/Risingson/eedocs/
+site_name: Eveeye Echoes Documentation
+repo_url: https://github.com/Risingson/eveeyeechoesdocs/
 theme:
   name: rtd-dropdown
 markdown_extensions:
