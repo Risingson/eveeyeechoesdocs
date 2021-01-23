@@ -12,6 +12,8 @@ Your set and a tab for it will get created and you will be ready to edit its det
 | Color Mode | Choose on how the data gets colored |
 | Color Low | This color is used for the lowest value of the set |
 | Color High | This color is used for the highest value of the set |
+| Sharing | Set who can see your data (nobody by default) |
+| External Data | An optional url to e.g. a google sheet |
 
 ### Individual color mode
 Will color each distinct value or label with an own color. If a label and a value were entered the vlaue will be used for selecting a color automatically.
@@ -81,11 +83,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_publishCSV.png)
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_exampleSet.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzQ5NjQ0OCwtMjU2NTM0OTQsLTExMz
-MyNzIwMzksMjk2MjcxNDg5LDE1MTQ0NTcxNTEsLTIwMzk4NDkx
-NDIsNTUzMDYwNTA1LC04NDY0OTY0MjYsMTQ2MjQzOTY4MiwxMD
-U4MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5OTAyMTIsMjM5NDA4
-NDMsLTE4NzUzMTQ1NywtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMT
-AxMDgwMzcyOSwtMjY1MTQ5ODY3LDE0NjAxMTU4NDUsLTEwNjQ0
-MTA1NzddfQ==
+eyJoaXN0b3J5IjpbLTE5MzUxNTA0NTksMTM5MzQ5NjQ0OCwtMj
+U2NTM0OTQsLTExMzMyNzIwMzksMjk2MjcxNDg5LDE1MTQ0NTcx
+NTEsLTIwMzk4NDkxNDIsNTUzMDYwNTA1LC04NDY0OTY0MjYsMT
+Q2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5
+OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIyNTk4NC
+wyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LDE0NjAx
+MTU4NDVdfQ==
 -->
