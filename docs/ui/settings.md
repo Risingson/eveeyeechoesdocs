@@ -1,14 +1,12 @@
 # Settings
 
 ## General
-#### User Interface scale
-Use + and - to scale the entire UI. In browsers you can use its native zoom aswell.
-#### Download Data over WiFi only
-This will load api data only if you are on wlan to save on data volume. This setting is available within mobile apps only.
-#### Suppress Data Update Notifications
-This toggles notifications appearing on the bottom of the app when new data was loaded.
 #### Doubleclick/tap Mode
 With this mode enabled clicking ot tapping a solarsystem will not show the menu. To show the menu you would have to doubleclick/tap it. On connection lines a single click/tap is sufficient to show its menu still.
+
+## User Interface
+#### User Interface scale
+Use + and - to scale the entire UI. In browsers you can use its native zoom aswell.
 
 ## Map
 #### Extended Map Layout
@@ -59,9 +57,10 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAzMjYyMTYsMTIxOTM4MzUxNiwtOD
-Q2OTUzNzYyLC02MDE4NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4
-MjksMjg3OTQxMjM5LDEzMzQzODc1MDYsLTEzOTc1MjczMzQsMT
-IyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4
-NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyODZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTEwMjEzNSwtMjA1MDMyNjIxNiwxMj
+E5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3
+ODUsMTk5MDE2MTgyOSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMT
+M5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5
+OTY0NSwxNzk5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl
+19
 -->
