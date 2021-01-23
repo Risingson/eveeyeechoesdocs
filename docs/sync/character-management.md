@@ -15,11 +15,11 @@ To revoke access for Eveeye goto [https://community.eveonline.com/support/third-
 To revoke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
 ## Login process
-To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu. After selecting to add a character you will get redirected to a new native browser window to log into EVE OnlineDiscord and then back to Eveeye with the character added. 
+To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu. After selecting to add a character you will get redirected to a new native browser window to log into Discord and then back to Eveeye with the user added. 
 
 To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove custom data un-install and re-install the app or clear browser cache.
 
-When using the cloud storage feature yYour user including the token stored to identify your charit gets removed from cloudeveeye server immediately. Your custom data will get deleted from cloud 30 days after char removal.
+When using the cloud storage feature your user including the token stored to identify your charit gets removed from cloudeveeye server immediately. Your custom data will get deleted from cloud 30 days after char removal.
 
 ## Re-authing
 If you updated your charactuser image you can update it by just authorizing the chauser again. Also if a new version of Eveeye was installed sometimes it would need you to authorize your characters again to use new features.
@@ -28,7 +28,7 @@ If you updated your charactuser image you can update it by just authorizing the 
 To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/)voke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE5Njk1OTAsLTE3ODQyODIzODMsMj
+eyJoaXN0b3J5IjpbLTExNjU4NDU1NTgsLTE3ODQyODIzODMsMj
 EzNjYyMDQ4OSwtMTUxNDI4NDI4LDc1MDY1NTE3OCwtODM4NzY3
 OTE4LDE0NzczMTg0NzQsLTM0NjI2NjIwNywtMTUzMTE1NjQ5MC
 wtNTU3NTAzNTMxLC04NzQ3NTkzOTksLTE1MjMxODIyNzYsMTA2
