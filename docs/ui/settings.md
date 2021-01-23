@@ -18,8 +18,6 @@ Additionally this will display how many systems are connected to a system of ano
 Toggle dark/light theme.
 #### Mono Background
 Will disable displaying background graphics and replace with a near-black blue background.
-#### Center on Current System
-This will tween the system your character is currently in to the center of the screen.
 #### Show Current Constellation Outline
 Draws an orange outline around all systems of the constellation you are in currently.
 
@@ -40,10 +38,10 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 You can set names for your [Custom Marks](https://eveeyeechoes.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc3NDcxNjAsLTIwNTAzMjYyMTYsMT
-IxOTM4MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5NTYsODAwNDQ2
-Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5LDEzMzQzODc1MDYsLT
-EzOTc1MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5
-OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyOD
-ZdfQ==
+eyJoaXN0b3J5IjpbLTMwOTE1NDU5OSwtMTMwNzc0NzE2MCwtMj
+A1MDMyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3
+NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyODc5NDEyMzksMT
+MzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4
+NzUxOTksMTM1OTk5OTY0NSwxNzk5MTg1MTk2LDEzMTE3NDI0OD
+QsMTgzMjE1NjI4Nl19
 -->
