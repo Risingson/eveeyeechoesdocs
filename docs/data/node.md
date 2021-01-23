@@ -1,7 +1,7 @@
 # Nodes
 Center color, text or logo of solarsystem shape.
 
-## Node Outlines
+## Node outlines
 Choose the graphical outline of solarsystems.
 
 ## Basic node fills
@@ -27,8 +27,8 @@ Displays type of suns.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc3MDA4MzksLTEyMTE5MjUxNzcsND
-c3NTM5OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUw
-MywtMTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LD
-E1OTczOTQyMzddfQ==
+eyJoaXN0b3J5IjpbOTMzNzc1OTMsLTEyMTE5MjUxNzcsNDc3NT
+M5OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUwMywt
+MTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OT
+czOTQyMzddfQ==
 -->
