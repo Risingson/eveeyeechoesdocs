@@ -37,6 +37,9 @@ When opening a set's details the display options `Node` and `Label` will get act
 ## Sharing maps   
 Enter a discord server name you are joined on. Everybody on that server will have read only access to that set.
 
+### Remove a map from sharing
+To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set's details. This will not remove the latest version from anyone who added that map but it would not get updated for them anymore. If removed by the ones using that legacy map it cannot be added back.
+
 ## External Data
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
 If you are using this feature you won't be able to edit data within eveeye.
@@ -78,7 +81,7 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_publishCSV.png)
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_exampleSet.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDQ0NzgwNiwtMjU2NTM0OTQsLTExMz
+eyJoaXN0b3J5IjpbMTM5MzQ5NjQ0OCwtMjU2NTM0OTQsLTExMz
 MyNzIwMzksMjk2MjcxNDg5LDE1MTQ0NTcxNTEsLTIwMzk4NDkx
 NDIsNTUzMDYwNTA1LC04NDY0OTY0MjYsMTQ2MjQzOTY4MiwxMD
 U4MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5OTAyMTIsMjM5NDA4
