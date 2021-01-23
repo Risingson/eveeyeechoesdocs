@@ -1,7 +1,7 @@
 # Search Interface
 Start typing to search for various categories.
 ## Search filters
-### General
+### Systems
 | Button | Filter |
 |--|--|
 | HIGH | Shows high-sec systems only. |
@@ -13,7 +13,7 @@ Start typing to search for various categories.
 | Button | Filter |
 |--|--|
 | HIGH | Shows high-sec systems only. |
-| LOW| Shows low-sec systems only. |
+| LOW | Shows low-sec systems only. |
 | NULL| Shows null-sec systems only. |
 | ABUNDANCE | Any richness to Perfect only. |
 | MATERIALS | Select the material or material combination you are searching for. |
@@ -23,6 +23,6 @@ Start typing to search for various categories.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc3NDY4MTIsNDI5NDI0OTUsODg4NT
-cyNDksLTg3MjA1MDI4XX0=
+eyJoaXN0b3J5IjpbLTI3MDY5NTc3MCw0Mjk0MjQ5NSw4ODg1Nz
+I0OSwtODcyMDUwMjhdfQ==
 -->
