@@ -12,9 +12,8 @@
 ##### Main
 |  | |
 |--|--|
+| <img src="https://eveeye.com/img/icons/Search-100.png" width="24" height="24" > | [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > | [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > | [Client and data sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > | [Cloud and data sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > | [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
@@ -51,7 +50,7 @@
 ##### Route
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
-## Other Icons
+<!-- ## Other Icons
 
 ##### Incursions and Invasions
 |  |  |
@@ -67,7 +66,7 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-3.png" width="24" height="24"> | Final Liminality security status |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-4.png" width="24" height="24"> | Triglavian Minor Victory |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
 
 ## Browser keyboard shortcuts
 
@@ -85,10 +84,10 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNj
-k0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUx
-NSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMz
-I0NTA4NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIz
-NTQsMTYwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMT
-E1MDY4ODU1NiwtMjA2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbLTk3NTA5MjA3OSwtMTMwNTc4NDIwOCwxNj
+IxOTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUy
+MSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1Nz
+I4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1
+NjMxLDQwNzI5MjM1NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLD
+M1MTEwMDkxMywxMTUwNjg4NTU2LC0yMDY3MDI1MzM2XX0=
 -->
