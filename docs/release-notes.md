@@ -1,5 +1,12 @@
 # Release Notes
 
+#### Release 1.02.0 - Jan 2021
+
+ - Exact ingame map added 
+ - Anomaly and Belt level NODE display 
+ - Station
+   system TAG option
+
 #### Release 1.01.0 - Jan 2021
 - Added DATA tab to edit all custom data within a system 
 - NPC Pirate and Region options on universe map 
@@ -18,7 +25,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mjk2MDg1Nyw4Mzg3MzkyMzksLTExMD
+eyJoaXN0b3J5IjpbLTMyNjM2MjU0NCw4Mzg3MzkyMzksLTExMD
 Y1ODE1MjUsNDg5OTY5MDc1LDIwMDU1MDU3NTIsMTM3MzE5OTQ5
 MCwxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLD
 c2MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5
