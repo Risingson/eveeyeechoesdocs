@@ -67,7 +67,9 @@ see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints)
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
 
-## Browser keyboard shortcuts 
+## Browser only features
+
+### Keyboard shortcuts 
 
 Hold `SHIFT` while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
 Hold `CTRL` while clicking a non-regional system to go to its map.<br>Hold `CTRL` while clicking a regional system to center the map on it.<br>
@@ -77,12 +79,12 @@ Just start typing to search for a place.
 
 Plus/minus keys do zoom and arrow keys do pan.
 
-## tiny qol features
+### Other
 
 Right-clicking the name of a solarsystem in the top bar will copy it to clipboard.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzc4OTcyMCwtMTYyMjk3NTI4NSwtMT
+eyJoaXN0b3J5IjpbMTcxMjA0OTQ4MCwtMTYyMjk3NTI4NSwtMT
 MwNTc4NDIwOCwxNjIxOTk4MzA0LC02OTQxMjcxMjAsMjU4Njcx
 MDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNz
 U4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3
