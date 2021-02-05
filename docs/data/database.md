@@ -42,6 +42,9 @@ Enter a discord server name you are joined on. Everybody on that server will hav
 ### Remove a map from sharing
 To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set's details. This will not remove the latest version from anyone who added that map but it would not get updated for them anymore. If removed by the ones using that legacy map it cannot be added back.
 
+### Public sharing
+Be aware that anybody will be able to view this dataset if you choose to make it public. 
+
 ## External Data
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
 If you are using this feature you won't be able to edit data within eveeye.
@@ -73,11 +76,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_publishCSV.png)
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_exampleSet.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMTUxNTkwLDYxNTUyNjE2NCwtMTkzNT
-E1MDQ1OSwxMzkzNDk2NDQ4LC0yNTY1MzQ5NCwtMTEzMzI3MjAz
-OSwyOTYyNzE0ODksMTUxNDQ1NzE1MSwtMjAzOTg0OTE0Miw1NT
-MwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNTgzNDI2
-NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0MywtMT
-g3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAz
-NzI5XX0=
+eyJoaXN0b3J5IjpbLTYyNTg3Njg2Nyw1NDIxNTE1OTAsNjE1NT
+I2MTY0LC0xOTM1MTUwNDU5LDEzOTM0OTY0NDgsLTI1NjUzNDk0
+LC0xMTMzMjcyMDM5LDI5NjI3MTQ4OSwxNTE0NDU3MTUxLC0yMD
+M5ODQ5MTQyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
+ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
+IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1
+MjI1XX0=
 -->
