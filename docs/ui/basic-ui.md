@@ -79,16 +79,18 @@ Just start typing to search for a place.
 
 Plus/minus keys do zoom and arrow keys do pan.
 
+Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
+
 ### Other
 
 Right-clicking the name of a solarsystem in the top bar will copy it to clipboard.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjA0OTQ4MCwtMTYyMjk3NTI4NSwtMT
-MwNTc4NDIwOCwxNjIxOTk4MzA0LC02OTQxMjcxMjAsMjU4Njcx
-MDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNz
-U4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3
-NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2NjgyLC
-0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4NTU2LC0yMDY3
-MDI1MzM2XX0=
+eyJoaXN0b3J5IjpbMTkwNTgzMTEzNywxNzEyMDQ5NDgwLC0xNj
+IyOTc1Mjg1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEy
+NzEyMCwyNTg2NzEwMywxODgxNTA1NTIxLC0zODMzOTA1MTUsMz
+c1ODI0NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUw
+ODUwNCwtMTMwMDc1MDY1OSwzODAyOTU2MzEsNDA3MjkyMzU0LD
+E2MDIxMzY2ODIsLTIxMjQ5NzU0ODMsMzUxMTAwOTEzLDExNTA2
+ODg1NTZdfQ==
 -->
