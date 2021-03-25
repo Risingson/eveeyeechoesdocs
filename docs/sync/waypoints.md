@@ -15,7 +15,8 @@ In the menu you can also select to `Avoid System`. To manage your avoided system
 |  |  |
 |--|--|
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) | Current system|
-|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_thru.png)|Fly thru system|
+|![disc](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_thru_xxx.png)|Fly thru system without npc station|
+|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_thru.png)|Fly thru system with npc station|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wp.png)|Waypoint solarsystem|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_sta.png)|Waypoint station|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png)|Destination solarsystem|
@@ -36,8 +37,9 @@ Clicking the colored square or else in the route legend will trigger a menu with
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc4OTY0OTAsLTE4ODA4NjQ5NjcsLT
-EwMzMwNTg3MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4
-Mjc1OCw2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC
-01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
+eyJoaXN0b3J5IjpbNjk1NDg1OTg1LC0xMTg3ODk2NDkwLC0xOD
+gwODY0OTY3LC0xMDMzMDU4NzA5LDY4Mjk4NDkyOSw3NTI0Mjcz
+MTAsLTE3MjE0ODI3NTgsNjM4Nzk2NDc2LDEwMDIzOTY2NTUsLT
+g5MTcyMjQ0OSwtNTI0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1
+ODY0NTVdfQ==
 -->
