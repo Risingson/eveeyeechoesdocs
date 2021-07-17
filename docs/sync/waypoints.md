@@ -8,6 +8,12 @@ To set a route you need to set a current system first. Do so by clicking a solar
 
 In the menu you can also select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
 
+On top of a route the following icons will be displayed:
+|  |  |
+|--|--|
+| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png) | Copy a waypoint list to the clipboard. This can be shared and pasted to eveeye. |
+| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/save.png) | Click to name and store this route. |
+
 !!! attention "Ingame vs Eveeye Echoes route"
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time. 
     
@@ -37,9 +43,9 @@ Clicking the colored square or else in the route legend will trigger a menu with
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2OTc4ODMyLDY5NTQ4NTk4NSwtMTE4Nz
-g5NjQ5MCwtMTg4MDg2NDk2NywtMTAzMzA1ODcwOSw2ODI5ODQ5
-MjksNzUyNDI3MzEwLC0xNzIxNDgyNzU4LDYzODc5NjQ3NiwxMD
-AyMzk2NjU1LC04OTE3MjI0NDksLTUyNDcxMzgzOCwtNDQxNzIy
-NTM2LC0xODA1NTg2NDU1XX0=
+eyJoaXN0b3J5IjpbMzM4MjM1MDczLDkxNjk3ODgzMiw2OTU0OD
+U5ODUsLTExODc4OTY0OTAsLTE4ODA4NjQ5NjcsLTEwMzMwNTg3
+MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4Mjc1OCw2Mz
+g3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC01MjQ3MTM4
+MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
 -->
