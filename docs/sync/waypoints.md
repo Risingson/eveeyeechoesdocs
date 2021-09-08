@@ -4,11 +4,10 @@
 ## Interaction
 To set a route you need to set a current system first. Do so by clicking a solarsystem and choose `Set Current System` from the menu.
 
-
-
 In the menu you can also select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
 
 On top of a route the following icons will be displayed:
+
 |  |  |
 |--|--|
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png) | Copy a waypoint list to the clipboard. This can be shared and pasted to eveeye. |
@@ -18,6 +17,7 @@ On top of a route the following icons will be displayed:
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time. 
     
 #### Route Display
+
 |  |  |
 |--|--|
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) | Current system|
@@ -32,7 +32,6 @@ On top of a route the following icons will be displayed:
 #### Route Manipulation
 Clicking the colored square or else in the route legend will trigger a menu with some options where applicable:
 
- 
 |  |  |
 |--|--|
 | Clear Route | Will clear your route ingame and in eveeye |
@@ -43,9 +42,10 @@ Clicking the colored square or else in the route legend will trigger a menu with
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MjM1MDczLDkxNjk3ODgzMiw2OTU0OD
-U5ODUsLTExODc4OTY0OTAsLTE4ODA4NjQ5NjcsLTEwMzMwNTg3
-MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4Mjc1OCw2Mz
-g3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC01MjQ3MTM4
-MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
+eyJoaXN0b3J5IjpbLTIwNzA3NjY5NTUsMzM4MjM1MDczLDkxNj
+k3ODgzMiw2OTU0ODU5ODUsLTExODc4OTY0OTAsLTE4ODA4NjQ5
+NjcsLTEwMzMwNTg3MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMT
+cyMTQ4Mjc1OCw2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIy
+NDQ5LC01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV
+19
 -->
