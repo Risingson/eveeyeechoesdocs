@@ -24,7 +24,7 @@
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> |  Toggle menu|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> | [Current route](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeyeechoes.readthedocs.io/en/latest/ui/solarsystem-info/) (mobile) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeyeechoes.readthedocs.io/en/latest/ui/solarsystem-info/) (portrait mode) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeyeechoes.readthedocs.io/en/latest/ui/bookmarks) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | The legend reflects your current map display options |
 
@@ -85,11 +85,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1NzY4ODA4LDE0NzU4NTYyMTksMTcxMj
-A0OTQ4MCwtMTYyMjk3NTI4NSwtMTMwNTc4NDIwOCwxNjIxOTk4
-MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMSwtMz
-gzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4
-MjcsLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLD
-QwNzI5MjM1NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEw
-MDkxM119
+eyJoaXN0b3J5IjpbLTEyNzcwMDMxNDgsMTQ3NTg1NjIxOSwxNz
+EyMDQ5NDgwLC0xNjIyOTc1Mjg1LC0xMzA1Nzg0MjA4LDE2MjE5
+OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NTIxLC
+0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3Mjgy
+NDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwzODAyOTU2Mz
+EsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLTIxMjQ5NzU0ODMsMzUx
+MTAwOTEzXX0=
 -->
