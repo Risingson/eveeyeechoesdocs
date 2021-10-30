@@ -2,7 +2,11 @@
 Center color, text or logo of solarsystem shape.
 
 ## Node outlines
-Choose the graphical outline of solarsystems.
+**Black or white**<br>
+Basic outline colors. 
+
+**Security**<br>
+Colors the outline after system security.
 
 ## Basic node fills
 **Security**<br>
@@ -31,8 +35,8 @@ Planetary material concentration in system. "Abundance" in Eveeye is a value com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTAzNjgzMSw5MzM3NzU5MywtMTIxMT
-kyNTE3Nyw0Nzc1Mzk5OSw4MDkyMjk5ODgsMTY1NTM5NjA1Mywx
-NzUyODQyNTAzLC0xMDcyOTA3MzQ2LC0xNjMyMjM2MzI2LDE3Nz
-E5NDkzNDYsMTU5NzM5NDIzN119
+eyJoaXN0b3J5IjpbMTI2MTAxMjk3MywxMjE1MDM2ODMxLDkzMz
+c3NTkzLC0xMjExOTI1MTc3LDQ3NzUzOTk5LDgwOTIyOTk4OCwx
+NjU1Mzk2MDUzLDE3NTI4NDI1MDMsLTEwNzI5MDczNDYsLTE2Mz
+IyMzYzMjYsMTc3MTk0OTM0NiwxNTk3Mzk0MjM3XX0=
 -->
