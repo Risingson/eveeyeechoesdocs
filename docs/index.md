@@ -37,16 +37,16 @@ Donations for the work done and time spent are more than welcome.
 o7 Risingson
 
 **Paypal and Stripe:**  [Donorbox](https://donorbox.org/eveeye-echoes)<br>
-**Bitcoin:**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF<br>
-<!--**Ether:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br>-->
+**Bitcoin:**  bc1qnqfvtm5mn66l4umqeq4v2hllm0sgrjjl535wgq<br>
+**Ethereum (any ERC-20 token):**  0x496dB71927c29e0C9f0bfE25a5213f2fAF071dC4<br>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MTcyMTkzLC0xNTM0MzM2NTQwLC01OD
-I0Mzg4OTgsLTk1OTg1NTczLC03MTAzNDgzODQsMTQ0NTM2Nzk0
-NywtMTYxNTY5MDAzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLT
-E4MjM0MTMyNzYsLTg2MDA0MjczNiw5MTg1MTM3NTIsMTQ5MDI4
-NjQ4MSwxNDYzODczOTY0LDE2NzAyNTU1MzAsMTA2NjE1NTEyMi
-wtMTQyMzIyMDksLTE0NDM4NzcyMjZdfQ==
+eyJoaXN0b3J5IjpbMTg1NzMxNTE5Miw1MjYxNzIxOTMsLTE1Mz
+QzMzY1NDAsLTU4MjQzODg5OCwtOTU5ODU1NzMsLTcxMDM0ODM4
+NCwxNDQ1MzY3OTQ3LC0xNjE1NjkwMDM5LC00NDAxODUwNzMsLT
+k0NTE5Mzk4NSwtMTgyMzQxMzI3NiwtODYwMDQyNzM2LDkxODUx
+Mzc1MiwxNDkwMjg2NDgxLDE0NjM4NzM5NjQsMTY3MDI1NTUzMC
+wxMDY2MTU1MTIyLC0xNDIzMjIwOSwtMTQ0Mzg3NzIyNl19
 -->
