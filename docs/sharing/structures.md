@@ -1,4 +1,4 @@
-# Structures
+# Structures (work in progress)
 Citadels can be manually added and shared with discord server.
 
 ## Pasting
@@ -19,5 +19,5 @@ You can clean a system from structures as a whole by doubleclicking the `little 
 ## Sharing
 If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/cloud/) structures will get displayed to all other pilots in your sharing group.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc2OTU1MDFdfQ==
+eyJoaXN0b3J5IjpbLTEyMTExNTIzMTldfQ==
 -->
