@@ -41,18 +41,19 @@ o7 Risingson
 **Ethereum (any ERC-20 token):**  `0x496dB71927c29e0C9f0bfE25a5213f2fAF071dC4`<br>
 
 ## Credits
-[Check out what data and libraries Eveeye is using ](https://eveeyeechoes.readthedocs.io/en/latest/sharing/cloud/) 
+[Check out what data and libraries Eveeye is using ](https://eveeyeechoes.readthedocs.io/en/latest/credits/) 
 
 ## Privacy & Terms
-[Visit our strict Privacy Policy and Terms of Service](https://eveeyeechoes.readthedocs.io/en/latest/sharing/privacy/) 
+[Visit our strict Privacy Policy and Terms of Service](https://eveeyeechoes.readthedocs.io/en/latest/privacy/) 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTA3Mjk3Myw1MjYxNzIxOTMsLTE1Mz
-QzMzY1NDAsLTU4MjQzODg5OCwtOTU5ODU1NzMsLTcxMDM0ODM4
-NCwxNDQ1MzY3OTQ3LC0xNjE1NjkwMDM5LC00NDAxODUwNzMsLT
-k0NTE5Mzk4NSwtMTgyMzQxMzI3NiwtODYwMDQyNzM2LDkxODUx
-Mzc1MiwxNDkwMjg2NDgxLDE0NjM4NzM5NjQsMTY3MDI1NTUzMC
-wxMDY2MTU1MTIyLC0xNDIzMjIwOSwtMTQ0Mzg3NzIyNl19
+eyJoaXN0b3J5IjpbLTE1NjMwMzQ4NDAsMTMwMTA3Mjk3Myw1Mj
+YxNzIxOTMsLTE1MzQzMzY1NDAsLTU4MjQzODg5OCwtOTU5ODU1
+NzMsLTcxMDM0ODM4NCwxNDQ1MzY3OTQ3LC0xNjE1NjkwMDM5LC
+00NDAxODUwNzMsLTk0NTE5Mzk4NSwtMTgyMzQxMzI3NiwtODYw
+MDQyNzM2LDkxODUxMzc1MiwxNDkwMjg2NDgxLDE0NjM4NzM5Nj
+QsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIwOSwtMTQ0
+Mzg3NzIyNl19
 -->
