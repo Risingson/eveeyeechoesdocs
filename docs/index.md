@@ -35,7 +35,7 @@ I have been developing Eveeye in my spare time [since 2006](https://eveeye.readt
 Donations for the work done and time spent are more than welcome.
 o7 Risingson
 
-**Stripe:**  [Donorbox](https://donorbox.org/eveeye-echoes)<br>
+**Credit Cards:**  [Donorbox](https://donorbox.org/eveeye-echoes)<br>
 **Bitcoin:**  `bc1qnqfvtm5mn66l4umqeq4v2hllm0sgrjjl535wgq`<br>
 **Ethereum (any ERC-20 token):**  `0x496dB71927c29e0C9f0bfE25a5213f2fAF071dC4`<br>
 
@@ -48,7 +48,7 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mjc0MDYwOCwtMTU2MzAzNDg0MCwxMz
+eyJoaXN0b3J5IjpbLTcwMTI2NDMwNSwtMTU2MzAzNDg0MCwxMz
 AxMDcyOTczLDUyNjE3MjE5MywtMTUzNDMzNjU0MCwtNTgyNDM4
 ODk4LC05NTk4NTU3MywtNzEwMzQ4Mzg0LDE0NDUzNjc5NDcsLT
 E2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIz
