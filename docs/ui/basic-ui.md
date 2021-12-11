@@ -46,7 +46,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
 
 ##### Route
-see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints)
+see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/navigation/waypoints)
 
 <!-- ## Other Icons
 
@@ -85,11 +85,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUwNTIzMjUsLTEyNzcwMDMxNDgsMT
-Q3NTg1NjIxOSwxNzEyMDQ5NDgwLC0xNjIyOTc1Mjg1LC0xMzA1
-Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMy
-wxODgxNTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgz
-NDM5NjEsMTU3MjgyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MD
-Y1OSwzODAyOTU2MzEsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLTIx
-MjQ5NzU0ODNdfQ==
+eyJoaXN0b3J5IjpbODgxNzU3NjM0LC0xMjc3MDAzMTQ4LDE0Nz
+U4NTYyMTksMTcxMjA0OTQ4MCwtMTYyMjk3NTI4NSwtMTMwNTc4
+NDIwOCwxNjIxOTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMT
+g4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQz
+OTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NT
+ksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2NjgyLC0yMTI0
+OTc1NDgzXX0=
 -->
