@@ -11,7 +11,7 @@ Interactive intel map system and chain mapping forfor [Eve Echoes](https://www.e
  - [Custom map data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/)
  - Discord [login](https://eveeyeechoes.readthedocs.io/en/latest/sync/character-management/) to cloud store and share custom map data
  - [Bookmarks](https://eveeyeechoes.readthedocs.io/en/latest/ui/bookmarks/)
- - [Routing](https://eveeyeechoes.readthedocs.io/en/latest/sync/waypoints/) and [distances](https://eveeyeechoes.readthedocs.io/en/latest/ui/solarsystem-info/) to bookmarked systems
+ - [Routing](https://eveeyeechoes.readthedocs.io/en/latest/navigation/waypoints/) and [distances](https://eveeyeechoes.readthedocs.io/en/latest/ui/solarsystem-info/) to bookmarked systems
 
 ## Platforms
 
@@ -27,8 +27,7 @@ You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointe
 ## Feedback
 I am happy about any feedback.
 
-There is a [Feedback Forum](https://feedback.userreport.com/ad67f34b-9307-4c42-9cff-b38c932cc732/#ideas/popular)<br>
-You can [Submit Bugs](https://feedback.userreport.com/ad67f34b-9307-4c42-9cff-b38c932cc732/#submit/bug) there aswell<br>
+[Submit Bugs](https://feedback.userreport.com/ad67f34b-9307-4c42-9cff-b38c932cc732/#submit/bug) <br>
 Or just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>
 
 ## Sponsorship
@@ -49,11 +48,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMwMzQ4NDAsMTMwMTA3Mjk3Myw1Mj
-YxNzIxOTMsLTE1MzQzMzY1NDAsLTU4MjQzODg5OCwtOTU5ODU1
-NzMsLTcxMDM0ODM4NCwxNDQ1MzY3OTQ3LC0xNjE1NjkwMDM5LC
-00NDAxODUwNzMsLTk0NTE5Mzk4NSwtMTgyMzQxMzI3NiwtODYw
-MDQyNzM2LDkxODUxMzc1MiwxNDkwMjg2NDgxLDE0NjM4NzM5Nj
-QsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIwOSwtMTQ0
-Mzg3NzIyNl19
+eyJoaXN0b3J5IjpbLTE1NTgyNjAwMzgsLTE1NjMwMzQ4NDAsMT
+MwMTA3Mjk3Myw1MjYxNzIxOTMsLTE1MzQzMzY1NDAsLTU4MjQz
+ODg5OCwtOTU5ODU1NzMsLTcxMDM0ODM4NCwxNDQ1MzY3OTQ3LC
+0xNjE1NjkwMDM5LC00NDAxODUwNzMsLTk0NTE5Mzk4NSwtMTgy
+MzQxMzI3NiwtODYwMDQyNzM2LDkxODUxMzc1MiwxNDkwMjg2ND
+gxLDE0NjM4NzM5NjQsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0x
+NDIzMjIwOV19
 -->
