@@ -19,7 +19,7 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 ### 1. Terms
 
-By accessing the website at  [https://echoeseveeye.com/](https://eveeye.com/)  or using Eveeye mobile apps, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site or app. The materials contained in this website or apps are protected by applicable copyright and trademark law.
+By accessing the website at  [https://echoes.eveeye.com/](https://echoes.eveeye.com/)  or using Eveeye mobile apps, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site or app. The materials contained in this website or apps are protected by applicable copyright and trademark law.
 
 ### 2. Use License
 
@@ -62,8 +62,8 @@ EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights 
 
 _The privacy policy and the terms of service are effective as of 12 May 2020._
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTk0Mzk4LC05NDUxODk5MzgsLTEwOT
-I5Mjc1MzUsMTQ1ODYzNDkwMywtNDg0Mzk4Mjg2LDEwMjc2Mzg1
-MjgsLTU1MDgwNTIyOSwtMTc2MTgwNzM0Myw1NjM0MDEzMzBdfQ
-==
+eyJoaXN0b3J5IjpbLTE2NTc0NzA0NzEsLTk0NTE4OTkzOCwtMT
+A5MjkyNzUzNSwxNDU4NjM0OTAzLC00ODQzOTgyODYsMTAyNzYz
+ODUyOCwtNTUwODA1MjI5LC0xNzYxODA3MzQzLDU2MzQwMTMzMF
+19
 -->
