@@ -3,9 +3,10 @@
 Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website,  [https://eveeye.com/](https://eveeye.com/).
 
 Eveeye uses  [Matomo](https://matomo.org/)  (own-webspace-hosted) to analyze webiste and app use anonymized.  
-The web-app complies with Do Not Track.  
+The website complies with Do Not Track.  
+The documentation on readthedocs uses Google Analytics.
 
-Eveeye does not store any personally identifyable information. We will protect that data within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
+Eveeye does not store any personal information except of email-addresses in certain cases. We will protect that data within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
 You are free to refuse to store your email-address or request for your personal information stored.
 
@@ -62,7 +63,7 @@ EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights 
 
 _The privacy policy and the terms of service are effective as of 12 May 2020._
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTYzNzQxMywtOTQ1MTg5OTM4LC0xMD
+eyJoaXN0b3J5IjpbLTYxNTY2OTQ0MSwtOTQ1MTg5OTM4LC0xMD
 kyOTI3NTM1LDE0NTg2MzQ5MDMsLTQ4NDM5ODI4NiwxMDI3NjM4
 NTI4LC01NTA4MDUyMjksLTE3NjE4MDczNDMsNTYzNDAxMzMwXX
 0=
