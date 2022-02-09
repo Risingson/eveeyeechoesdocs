@@ -42,12 +42,9 @@
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x5.png" width="24" height="24" > | Menu bar transparency | 
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x0.png" width="24" height="24" >K | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xCollapse-100.png" width="24" height="24" >J |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xLock.png" width="24" height="24" >R | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >T | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >? | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
+
 
 ##### Other
 |  |  |
@@ -99,11 +96,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjY4NDkxOCw4ODE3NTc2MzQsLTEyNz
-cwMDMxNDgsMTQ3NTg1NjIxOSwxNzEyMDQ5NDgwLC0xNjIyOTc1
-Mjg1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMC
-wyNTg2NzEwMywxODgxNTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0
-NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUwODUwNC
-wtMTMwMDc1MDY1OSwzODAyOTU2MzEsNDA3MjkyMzU0LDE2MDIx
-MzY2ODJdfQ==
+eyJoaXN0b3J5IjpbLTE2MjE5ODc3MzYsODgxNzU3NjM0LC0xMj
+c3MDAzMTQ4LDE0NzU4NTYyMTksMTcxMjA0OTQ4MCwtMTYyMjk3
+NTI4NSwtMTMwNTc4NDIwOCwxNjIxOTk4MzA0LC02OTQxMjcxMj
+AsMjU4NjcxMDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgy
+NDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MD
+QsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAy
+MTM2NjgyXX0=
 -->
