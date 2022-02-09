@@ -9,7 +9,7 @@
 
 ## Menus
 
-##### Main
+##### Main Menu
 |  | |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > | [Character management](https://eveeyeechoes.readthedocs.io/en/latest/sync/character-management/) |
@@ -19,7 +19,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images//db.png" width="24" height="24"> | [Custom Data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeyeechoes.readthedocs.io/en/latest/ui/settings/) |
 
-##### Info
+##### Secondary Menu
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> |  Toggle menu|
@@ -29,7 +29,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeyeechoes.readthedocs.io/en/latest/ui/bookmarks) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | The legend reflects your current map display options |
 
-##### Right Map menu
+##### Right Map Menu
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeyeechoes.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
@@ -97,11 +97,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDkzMzM1Nyw4ODE3NTc2MzQsLTEyNz
-cwMDMxNDgsMTQ3NTg1NjIxOSwxNzEyMDQ5NDgwLC0xNjIyOTc1
-Mjg1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMC
-wyNTg2NzEwMywxODgxNTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0
-NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUwODUwNC
-wtMTMwMDc1MDY1OSwzODAyOTU2MzEsNDA3MjkyMzU0LDE2MDIx
-MzY2ODJdfQ==
+eyJoaXN0b3J5IjpbODIwODU2NjAzLDg4MTc1NzYzNCwtMTI3Nz
+AwMzE0OCwxNDc1ODU2MjE5LDE3MTIwNDk0ODAsLTE2MjI5NzUy
+ODUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3MTIwLD
+I1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1
+OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4NTA0LC
+0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMTYwMjEz
+NjY4Ml19
 -->
