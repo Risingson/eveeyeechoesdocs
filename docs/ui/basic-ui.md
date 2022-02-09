@@ -43,7 +43,7 @@
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x5.png" width="24" height="24" > | Menu bar transparency | 
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xCollapse-100.png" width="24" height="24" >J |[Jumprange](https://eveeyeechoes.readthedocs.io/en/latest/navigation/jumprange)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/set_jumprange_on.png" width="24" height="24" >J |[Jumprange](https://eveeyeechoes.readthedocs.io/en/latest/navigation/jumprange)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xLock.png" width="24" height="24" >R | [Route](https://eveeyeechoes.readthedocs.io/en/latest/navigation/route)|
 
 
@@ -97,7 +97,7 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwODU2NjAzLDg4MTc1NzYzNCwtMTI3Nz
+eyJoaXN0b3J5IjpbMzYzMDEyNzA4LDg4MTc1NzYzNCwtMTI3Nz
 AwMzE0OCwxNDc1ODU2MjE5LDE3MTIwNDk0ODAsLTE2MjI5NzUy
 ODUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3MTIwLD
 I1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1
