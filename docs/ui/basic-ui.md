@@ -41,6 +41,7 @@
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeyeechoes.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > | Switches between radar map and normal map |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xxx0.png" width="24" height="24" >U | Switches to universe map map |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > | Zoom map in an out |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
@@ -85,11 +86,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNzU3NjM0LC0xMjc3MDAzMTQ4LDE0Nz
-U4NTYyMTksMTcxMjA0OTQ4MCwtMTYyMjk3NTI4NSwtMTMwNTc4
-NDIwOCwxNjIxOTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMT
-g4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQz
-OTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NT
-ksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2NjgyLC0yMTI0
-OTc1NDgzXX0=
+eyJoaXN0b3J5IjpbNzE4MjIzMzUyLDg4MTc1NzYzNCwtMTI3Nz
+AwMzE0OCwxNDc1ODU2MjE5LDE3MTIwNDk0ODAsLTE2MjI5NzUy
+ODUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3MTIwLD
+I1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1
+OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4NTA0LC
+0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMTYwMjEz
+NjY4Ml19
 -->
