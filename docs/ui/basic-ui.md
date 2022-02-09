@@ -55,7 +55,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-x50.png" width="24" height="24"> | Bugreports |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xopacity_off.png" width="24" height="24"> | Export current map display|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xopacity_off.png" width="24" height="24"> | Export current map display (browser and tablet only)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
 
 <!-- ##### Route
@@ -98,7 +98,7 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTg1NTkyMSwzNjMwMTI3MDgsODgxNz
+eyJoaXN0b3J5IjpbMTI0MTYxMzAyNywzNjMwMTI3MDgsODgxNz
 U3NjM0LC0xMjc3MDAzMTQ4LDE0NzU4NTYyMTksMTcxMjA0OTQ4
 MCwtMTYyMjk3NTI4NSwtMTMwNTc4NDIwOCwxNjIxOTk4MzA0LC
 02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMSwtMzgzMzkw
