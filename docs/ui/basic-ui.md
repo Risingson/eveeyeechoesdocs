@@ -34,7 +34,7 @@
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeyeechoes.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > | Switches between radar map and normal map |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xxx0.png" width="24" height="24" >U | Switches to universe map map |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/u.png" width="24" height="24" > | Switches to universe map map |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > | Zoom map in an out |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
@@ -42,9 +42,9 @@
 ##### Left Map Menu display toggles (browser and tablet only)
 |  |  |
 |--|--|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x5.png" width="24" height="24" > | Menu bar transparency | 
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/set_jumprange_on.png" width="24" height="24" >J |[Jumprange](https://eveeyeechoes.readthedocs.io/en/latest/navigation/jumprange)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xLock.png" width="24" height="24" >R | [Route](https://eveeyeechoes.readthedocs.io/en/latest/navigation/route)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Menu bar transparency | 
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > |[Jumprange](https://eveeyeechoes.readthedocs.io/en/latest/navigation/jumprange)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > | [Route](https://eveeyeechoes.readthedocs.io/en/latest/navigation/route)|
 
 
 ##### Other
@@ -52,11 +52,11 @@
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Discord support channel |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-x50.png" width="24" height="24"> | Bugreports |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bug.png" width="24" height="24"> | Bugreports |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xopacity_off.png" width="24" height="24"> |  Switch dark/light theme |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xopacity_off.png" width="24" height="24"> | Export current map display (browser and tablet only)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/theme.png" width="24" height="24"> |  Switch dark/light theme |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png" width="24" height="24"> | Export current map display (browser and tablet only)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
 
 <!-- ##### Route
@@ -99,11 +99,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NzE1MDg5LDEyNDE2MTMwMjcsMzYzMD
-EyNzA4LDg4MTc1NzYzNCwtMTI3NzAwMzE0OCwxNDc1ODU2MjE5
-LDE3MTIwNDk0ODAsLTE2MjI5NzUyODUsLTEzMDU3ODQyMDgsMT
-YyMTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1
-MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNT
-cyODI0ODI3LC0xMzI0NTA4NTA0LC0xMzAwNzUwNjU5LDM4MDI5
-NTYzMV19
+eyJoaXN0b3J5IjpbLTI0OTM2MzAwMyw1Njk3MTUwODksMTI0MT
+YxMzAyNywzNjMwMTI3MDgsODgxNzU3NjM0LC0xMjc3MDAzMTQ4
+LDE0NzU4NTYyMTksMTcxMjA0OTQ4MCwtMTYyMjk3NTI4NSwtMT
+MwNTc4NDIwOCwxNjIxOTk4MzA0LC02OTQxMjcxMjAsMjU4Njcx
+MDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNz
+U4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3
+NTA2NTldfQ==
 -->
