@@ -1,12 +1,27 @@
 # Basics
 
-## Tap/click
-- Solarsystems for options
+## Tapping on mobile
+|  |  |
+|--|--|
+| Single Tap |  |
+| Double Tap |  |
+| Press |  |
+| Single Tap |  |
+| Single Tap |  |
+
+- Singel T
 - Wormhole connection lines to set sigs, wormhole type and entry side.
 - Empty space in map area to close any menus
 - Region name in top row to go to Region Overview map
 - Solarsystem name in top row to center the map on it
 
+## Clicking on browser
+- Solarsystems for options
+- Wormhole connection lines to set sigs, wormhole type and entry side.
+- Empty space in map area to close any menus
+- Region name in top row to go to Region Overview map
+- Solarsystem name in top row to center the map on it
+- 
 ## Menus
 
 ##### Main Menu
@@ -99,11 +114,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTM2MzAwMyw1Njk3MTUwODksMTI0MT
-YxMzAyNywzNjMwMTI3MDgsODgxNzU3NjM0LC0xMjc3MDAzMTQ4
-LDE0NzU4NTYyMTksMTcxMjA0OTQ4MCwtMTYyMjk3NTI4NSwtMT
-MwNTc4NDIwOCwxNjIxOTk4MzA0LC02OTQxMjcxMjAsMjU4Njcx
-MDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNz
-U4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3
-NTA2NTldfQ==
+eyJoaXN0b3J5IjpbLTE3NTQ2NjkzOTYsLTI0OTM2MzAwMyw1Nj
+k3MTUwODksMTI0MTYxMzAyNywzNjMwMTI3MDgsODgxNzU3NjM0
+LC0xMjc3MDAzMTQ4LDE0NzU4NTYyMTksMTcxMjA0OTQ4MCwtMT
+YyMjk3NTI4NSwtMTMwNTc4NDIwOCwxNjIxOTk4MzA0LC02OTQx
+MjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LD
+M3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1
+MDg1MDRdfQ==
 -->
