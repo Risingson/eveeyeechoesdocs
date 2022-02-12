@@ -1,20 +1,25 @@
 # Basics
 
-## Tapping solarsystems on mobile
+## Mobile app interaction
 |  |  |
 |--|--|
-| Single Tap | Set active|
+| Tap | Set active|
 | Double Tap | Open menu |
 | Press | Open solarsystem info |
 
-
-
-- Wormhole connection lines to set sigs, wormhole type and entry side.
-- Empty space in map area to close any menus
-- Region name in top row to go to Region Overview map
-- Solarsystem name in top row to center the map on it
+- Tap wormhole connection lines to set sigs, wormhole type and entry side
+- Tap empty space in map area to close any menus
+- Tap region name in top row to go to Region Overview map
+- Tap solarsystem name in top row to center the map on it
 
 ## Clicking on browser
+
+|  |  |
+|--|--|
+| Click | Set active|
+| Double Click | Set current location (if not tracking l |
+| Press | Open solarsystem info |
+
 - Solarsystems for options
 - Wormhole connection lines to set sigs, wormhole type and entry side.
 - Empty space in map area to close any menus
@@ -113,7 +118,7 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTkwMDYzNSwtMjQ5MzYzMDAzLDU2OT
+eyJoaXN0b3J5IjpbMTQ4MzEwMjA0NCwtMjQ5MzYzMDAzLDU2OT
 cxNTA4OSwxMjQxNjEzMDI3LDM2MzAxMjcwOCw4ODE3NTc2MzQs
 LTEyNzcwMDMxNDgsMTQ3NTg1NjIxOSwxNzEyMDQ5NDgwLC0xNj
 IyOTc1Mjg1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEy
