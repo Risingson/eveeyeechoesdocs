@@ -7,6 +7,7 @@
 | Double Tap | Open menu |
 | Press | Open solarsystem info |
 
+<!-- - Tap wormhole connection lines to set sigs, wormhole type and entry side -->
 - Tap empty space in map area to close any menus
 - Tap region name in top row to go to Region Overview map
 - Tap solarsystem name in top row to center the map on it
@@ -21,7 +22,7 @@
 | Double Click | Set current location (if not tracking location) |
 
 - Just start typing to search for a place.
-- Click wormhole connection lines to set sigs, wormhole type and entry side.
+<!-- - Click wormhole connection lines to set sigs, wormhole type and entry side.-->
 - Click empty space in map area to close any menus
 - Click region name in top row to go to Region Overview map
 - Click solarsystem name in top row to center the map on it
@@ -111,11 +112,11 @@ see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/navigation/waypoin
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzM0NzYxMCwtMjQ5MzYzMDAzLDU2OT
-cxNTA4OSwxMjQxNjEzMDI3LDM2MzAxMjcwOCw4ODE3NTc2MzQs
-LTEyNzcwMDMxNDgsMTQ3NTg1NjIxOSwxNzEyMDQ5NDgwLC0xNj
-IyOTc1Mjg1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEy
-NzEyMCwyNTg2NzEwMywxODgxNTA1NTIxLC0zODMzOTA1MTUsMz
-c1ODI0NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUw
-ODUwNF19
+eyJoaXN0b3J5IjpbNTU5ODM5MzEwLC0yNDkzNjMwMDMsNTY5Nz
+E1MDg5LDEyNDE2MTMwMjcsMzYzMDEyNzA4LDg4MTc1NzYzNCwt
+MTI3NzAwMzE0OCwxNDc1ODU2MjE5LDE3MTIwNDk0ODAsLTE2Mj
+I5NzUyODUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3
+MTIwLDI1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNz
+U4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4
+NTA0XX0=
 -->
