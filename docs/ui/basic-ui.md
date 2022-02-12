@@ -3,9 +3,9 @@
 ## Mobile app interaction
 |  |  |
 |--|--|
-| Tap | Set active|
-| Double Tap | Open menu |
-| Press | Open solarsystem info |
+| **Tap** | Set active|
+| **Double Tap** | Open menu |
+| **Press** | Open solarsystem info |
 
 <!-- - Tap wormhole connection lines to set sigs, wormhole type and entry side -->
 - Tap empty space in map area to close any menus
@@ -13,16 +13,14 @@
 - Tap solarsystem name in top row to center the map on it
 
 ## Browser interaction
-
 |  |  |
 |--|--|
-| Click | Set active|
-| Right Click| Open menu |
-| Long Click| Open solarsystem info |
-| Double Click | Set current location (if not tracking location) |
+| **Click** | Set active|
+| **Right Click**| Open menu |
+| **Long Click**| Open solarsystem info |
+| **Double Click** | Set current location (if not tracking location) |
 
-- Just start typing to search for a place.
-<!-- - Click wormhole connection lines to set sigs, wormhole type and entry side.-->
+- Just start typing to search for a place.<!-- - Click wormhole connection lines to set sigs, wormhole type and entry side.-->
 - Click empty space in map area to close any menus
 - Click region name in top row to go to Region Overview map
 - Click solarsystem name in top row to center the map on it
@@ -112,11 +110,11 @@ see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/navigation/waypoin
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5ODM5MzEwLC0yNDkzNjMwMDMsNTY5Nz
-E1MDg5LDEyNDE2MTMwMjcsMzYzMDEyNzA4LDg4MTc1NzYzNCwt
-MTI3NzAwMzE0OCwxNDc1ODU2MjE5LDE3MTIwNDk0ODAsLTE2Mj
-I5NzUyODUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3
-MTIwLDI1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNz
-U4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4
-NTA0XX0=
+eyJoaXN0b3J5IjpbLTE4NjAyOTM5OCw1NTk4MzkzMTAsLTI0OT
+M2MzAwMyw1Njk3MTUwODksMTI0MTYxMzAyNywzNjMwMTI3MDgs
+ODgxNzU3NjM0LC0xMjc3MDAzMTQ4LDE0NzU4NTYyMTksMTcxMj
+A0OTQ4MCwtMTYyMjk3NTI4NSwtMTMwNTc4NDIwOCwxNjIxOTk4
+MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMSwtMz
+gzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4
+MjddfQ==
 -->
