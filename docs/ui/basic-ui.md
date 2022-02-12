@@ -18,7 +18,7 @@
 | **Click** | Set active|
 | **Right Click**| Open menu |
 | **Long Click**| Open solarsystem info |
-| **Double Click** | Set current location (if not tracking location) |
+| **Double Click** | Set current location |
 
 - Just start typing to search for a place.<!-- - Click wormhole connection lines to set sigs, wormhole type and entry side.-->
 - Click empty space in map area to close any menus
@@ -110,7 +110,7 @@ see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/navigation/waypoin
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAyOTM5OCw1NTk4MzkzMTAsLTI0OT
+eyJoaXN0b3J5IjpbMTY2NzA4OTQzMyw1NTk4MzkzMTAsLTI0OT
 M2MzAwMyw1Njk3MTUwODksMTI0MTYxMzAyNywzNjMwMTI3MDgs
 ODgxNzU3NjM0LC0xMjc3MDAzMTQ4LDE0NzU4NTYyMTksMTcxMj
 A0OTQ4MCwtMTYyMjk3NTI4NSwtMTMwNTc4NDIwOCwxNjIxOTk4
