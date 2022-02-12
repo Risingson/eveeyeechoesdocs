@@ -21,11 +21,24 @@
 | Long Click| Open solarsystem info |
 | Double Click | Set current location (if not tracking location) |
 
+- Just start typing to search for a place.
 - Click wormhole connection lines to set sigs, wormhole type and entry side.
 - Click empty space in map area to close any menus
 - Click region name in top row to go to Region Overview map
-- Click olarsystem name in top row to center the map on it
-- 
+- Click solarsystem name in top row to center the map on it
+- Right-clicking the name of a solarsystem in the top bar will copy it to clipboard.
+
+#### Keyboard shortcuts 
+
+Hold `SHIFT` while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
+Hold `CTRL` while clicking a non-regional system to go to its map.<br>Hold `CTRL` while clicking a regional system to center the map on it.<br>
+Hold `CTRL`-`SHIFT` while clicking a system to set it radar map center.<br>
+
+`+` and `-` keys do zoom and arrow keys do pan.
+
+Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
+
+
 ## Menus
 
 ##### Main Menu
@@ -98,31 +111,12 @@ see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/navigation/waypoin
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-4.png" width="24" height="24"> | Triglavian Minor Victory |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
-
-## Browser only features
-
-### Keyboard shortcuts 
-
-Hold `SHIFT` while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
-Hold `CTRL` while clicking a non-regional system to go to its map.<br>Hold `CTRL` while clicking a regional system to center the map on it.<br>
-Hold `CTRL`-`SHIFT` while clicking a system to set it radar map center.<br>
-
-`+` and `-` keys do zoom and arrow keys do pan.
-
-Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
-
-### Other
-
-Right-clicking the name of a solarsystem in the top bar will copy it to clipboard.
-
-Just start typing to search for a place.
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzODc3ODI3LC0yNDkzNjMwMDMsNTY5Nz
-E1MDg5LDEyNDE2MTMwMjcsMzYzMDEyNzA4LDg4MTc1NzYzNCwt
-MTI3NzAwMzE0OCwxNDc1ODU2MjE5LDE3MTIwNDk0ODAsLTE2Mj
-I5NzUyODUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3
-MTIwLDI1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNz
-U4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4
-NTA0XX0=
+eyJoaXN0b3J5IjpbMTk5MjQ5Mzg4MiwtMjQ5MzYzMDAzLDU2OT
+cxNTA4OSwxMjQxNjEzMDI3LDM2MzAxMjcwOCw4ODE3NTc2MzQs
+LTEyNzcwMDMxNDgsMTQ3NTg1NjIxOSwxNzEyMDQ5NDgwLC0xNj
+IyOTc1Mjg1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEy
+NzEyMCwyNTg2NzEwMywxODgxNTA1NTIxLC0zODMzOTA1MTUsMz
+c1ODI0NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUw
+ODUwNF19
 -->
