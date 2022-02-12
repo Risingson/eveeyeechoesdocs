@@ -7,7 +7,6 @@
 | Double Tap | Open menu |
 | Press | Open solarsystem info |
 
-- Tap wormhole connection lines to set sigs, wormhole type and entry side
 - Tap empty space in map area to close any menus
 - Tap region name in top row to go to Region Overview map
 - Tap solarsystem name in top row to center the map on it
@@ -112,7 +111,7 @@ see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/navigation/waypoin
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjQ5Mzg4MiwtMjQ5MzYzMDAzLDU2OT
+eyJoaXN0b3J5IjpbMTAwMzM0NzYxMCwtMjQ5MzYzMDAzLDU2OT
 cxNTA4OSwxMjQxNjEzMDI3LDM2MzAxMjcwOCw4ODE3NTc2MzQs
 LTEyNzcwMDMxNDgsMTQ3NTg1NjIxOSwxNzEyMDQ5NDgwLC0xNj
 IyOTc1Mjg1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEy
