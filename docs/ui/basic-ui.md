@@ -3,7 +3,7 @@
 ## Mobile app interaction
 |  |  |
 |--|--|
-| **Tap** | Set active|
+| **Tap** | Set info solarsystem|
 | **Double Tap** | Open menu |
 | **Press** | Open solarsystem info |
 
@@ -110,11 +110,11 @@ see [Waypoints](https://eveeyeechoes.readthedocs.io/en/latest/navigation/waypoin
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDAzODYyMywxNjY3MDg5NDMzLDU1OT
-gzOTMxMCwtMjQ5MzYzMDAzLDU2OTcxNTA4OSwxMjQxNjEzMDI3
-LDM2MzAxMjcwOCw4ODE3NTc2MzQsLTEyNzcwMDMxNDgsMTQ3NT
-g1NjIxOSwxNzEyMDQ5NDgwLC0xNjIyOTc1Mjg1LC0xMzA1Nzg0
-MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxOD
-gxNTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5
-NjFdfQ==
+eyJoaXN0b3J5IjpbNTgzOTM5NjEsMTY2NzA4OTQzMyw1NTk4Mz
+kzMTAsLTI0OTM2MzAwMyw1Njk3MTUwODksMTI0MTYxMzAyNywz
+NjMwMTI3MDgsODgxNzU3NjM0LC0xMjc3MDAzMTQ4LDE0NzU4NT
+YyMTksMTcxMjA0OTQ4MCwtMTYyMjk3NTI4NSwtMTMwNTc4NDIw
+OCwxNjIxOTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MT
+UwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYx
+XX0=
 -->
