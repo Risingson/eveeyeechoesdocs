@@ -4,6 +4,8 @@
 *Nothing here yet.*
 
 ## User Interface
+#### Light Map Theme
+Toggle dark/light theme.
 #### User Interface scale
 Use + and - to scale the entire UI. In browsers you can use its native zoom aswell.
 #### Color Hue and Saturation
@@ -15,8 +17,6 @@ Use + and - to change the line width of the connections on the map. Also importa
 #### Extended Map Layout
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
-#### Light Map Theme
-Toggle dark/light theme.
 #### Mono Background
 Will disable displaying background graphics and replace with a near-black blue background.
 #### Show Current Constellation Outline
@@ -39,10 +39,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 You can set names for your [Custom Marks](https://eveeyeechoes.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMDMzODMxLC0xMzYyOTM0MjUyLC0xMz
-A3NzQ3MTYwLC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1
-Mzc2MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LD
-I4Nzk0MTIzOSwxMzM0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4
-NzYyNTUsLTMzMzg3NTE5OSwxMzU5OTk5NjQ1LDE3OTkxODUxOT
-YsMTMxMTc0MjQ4NCwxODMyMTU2Mjg2XX0=
+eyJoaXN0b3J5IjpbMTQxNTQ4MDg0OSw2NzAwMzM4MzEsLTEzNj
+I5MzQyNTIsLTEzMDc3NDcxNjAsLTIwNTAzMjYyMTYsMTIxOTM4
+MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5NTYsODAwNDQ2Nzg1LD
+E5OTAxNjE4MjksMjg3OTQxMjM5LDEzMzQzODc1MDYsLTEzOTc1
+MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5OTk2ND
+UsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyODZdfQ==
+
 -->
