@@ -35,15 +35,15 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 !!! attention
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time.
 
-## Names
+## Marks
 You can set names for your [Custom Marks](https://eveeyeechoes.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Njc2NzM4Myw2NzAwMzM4MzEsLTEzNj
-I5MzQyNTIsLTEzMDc3NDcxNjAsLTIwNTAzMjYyMTYsMTIxOTM4
-MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5NTYsODAwNDQ2Nzg1LD
-E5OTAxNjE4MjksMjg3OTQxMjM5LDEzMzQzODc1MDYsLTEzOTc1
-MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5OTk2ND
-UsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyODZdfQ==
-
+eyJoaXN0b3J5IjpbMTI1MTc4NDksMTk2Njc2NzM4Myw2NzAwMz
+M4MzEsLTEzNjI5MzQyNTIsLTEzMDc3NDcxNjAsLTIwNTAzMjYy
+MTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5NTYsOD
+AwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5LDEzMzQzODc1
+MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LD
+EzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIx
+NTYyODZdfQ==
 -->
