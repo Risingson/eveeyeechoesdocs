@@ -34,16 +34,22 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 !!! attention
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time.
+    
+## Jump
+#### Display Jumprange
+Enables/Disables displaying jumpranges on the map. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > in the left map menu aswell.
+#### Skill and Fitting Settings
+Match your skills and fit for the app to calc your range and fuel correctly.
 
 ## Marks
 You can set names for your [Custom Marks](https://eveeyeechoes.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTc4NDksMTk2Njc2NzM4Myw2NzAwMz
-M4MzEsLTEzNjI5MzQyNTIsLTEzMDc3NDcxNjAsLTIwNTAzMjYy
-MTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5NTYsOD
-AwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5LDEzMzQzODc1
-MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LD
-EzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIx
-NTYyODZdfQ==
+eyJoaXN0b3J5IjpbLTkwMjU5Nzk5OSwxMjUxNzg0OSwxOTY2Nz
+Y3MzgzLDY3MDAzMzgzMSwtMTM2MjkzNDI1MiwtMTMwNzc0NzE2
+MCwtMjA1MDMyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3NjIsLT
+YwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyODc5NDEy
+MzksMTMzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2MjU1LC
+0zMzM4NzUxOTksMTM1OTk5OTY0NSwxNzk5MTg1MTk2LDEzMTE3
+NDI0ODRdfQ==
 -->
