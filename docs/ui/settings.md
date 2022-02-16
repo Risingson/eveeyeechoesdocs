@@ -1,14 +1,15 @@
 # Settings
 
 ## General
-#### Doubleclick/tap Mode
-With this mode enabled clicking ot tapping a solarsystem will not show the menu. To show the menu you would have to doubleclick/tap it. On connection lines a single click/tap is sufficient to show its menu still.
+*Nothing here yet.*
 
 ## User Interface
 #### User Interface scale
 Use + and - to scale the entire UI. In browsers you can use its native zoom aswell.
 #### Color Hue and Saturation
 Use + and - to set UI colors.
+#### Connection Line Width
+Use + and - to change the line width of the connections on the map. Also important for exporting the map to PNG.
 
 ## Map
 #### Extended Map Layout
@@ -38,10 +39,10 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 You can set names for your [Custom Marks](https://eveeyeechoes.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI5MzQyNTIsLTEzMDc3NDcxNjAsLT
-IwNTAzMjYyMTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MDE4
-NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5LD
-EzMzQzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMzMz
-ODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQyND
-g0LDE4MzIxNTYyODZdfQ==
+eyJoaXN0b3J5IjpbNjcwMDMzODMxLC0xMzYyOTM0MjUyLC0xMz
+A3NzQ3MTYwLC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1
+Mzc2MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LD
+I4Nzk0MTIzOSwxMzM0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4
+NzYyNTUsLTMzMzg3NTE5OSwxMzU5OTk5NjQ1LDE3OTkxODUxOT
+YsMTMxMTc0MjQ4NCwxODMyMTU2Mjg2XX0=
 -->
