@@ -12,6 +12,8 @@ Use + and - to scale the entire UI. In browsers you can use its native zoom aswe
 Use + and - to set UI colors.
 #### Connection Line Width
 Use + and - to change the line width of the connections on the map. Also important for exporting the map to PNG.
+#### Mono Map Background
+Will disable displaying background graphics and replace with a near-black blue or white background.
 
 ## Map
 #### Extended Map Layout
@@ -39,11 +41,10 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 You can set names for your [Custom Marks](https://eveeyeechoes.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTQ4MDg0OSw2NzAwMzM4MzEsLTEzNj
-I5MzQyNTIsLTEzMDc3NDcxNjAsLTIwNTAzMjYyMTYsMTIxOTM4
-MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5NTYsODAwNDQ2Nzg1LD
-E5OTAxNjE4MjksMjg3OTQxMjM5LDEzMzQzODc1MDYsLTEzOTc1
-MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5OTk2ND
-UsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyODZdfQ==
-
+eyJoaXN0b3J5IjpbMjYxOTQ5ODEzLDY3MDAzMzgzMSwtMTM2Mj
+kzNDI1MiwtMTMwNzc0NzE2MCwtMjA1MDMyNjIxNiwxMjE5Mzgz
+NTE2LC04NDY5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3ODUsMT
+k5MDE2MTgyOSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUy
+NzMzNCwxMjIyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NS
+wxNzk5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
 -->
