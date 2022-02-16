@@ -12,15 +12,13 @@ Use + and - to scale the entire UI. In browsers you can use its native zoom aswe
 Use + and - to set UI colors.
 #### Connection Line Width
 Use + and - to change the line width of the connections on the map. Also important for exporting the map to PNG.
-#### Mono Map Background
-Will disable displaying background graphics and replace with a near-black blue or white background.
 
 ## Map
 #### Extended Map Layout
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
 #### Mono Background
-Will disable displaying background graphics and replace with a near-black blue background.
+Will disable displaying background graphics and replace with a near-black blue or white background.
 #### Show Current Constellation Outline
 Draws an orange outline around all systems of the constellation you are in currently.
 
@@ -41,10 +39,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 You can set names for your [Custom Marks](https://eveeyeechoes.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxOTQ5ODEzLDY3MDAzMzgzMSwtMTM2Mj
-kzNDI1MiwtMTMwNzc0NzE2MCwtMjA1MDMyNjIxNiwxMjE5Mzgz
-NTE2LC04NDY5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3ODUsMT
-k5MDE2MTgyOSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUy
-NzMzNCwxMjIyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NS
-wxNzk5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
+eyJoaXN0b3J5IjpbMTk2Njc2NzM4Myw2NzAwMzM4MzEsLTEzNj
+I5MzQyNTIsLTEzMDc3NDcxNjAsLTIwNTAzMjYyMTYsMTIxOTM4
+MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5NTYsODAwNDQ2Nzg1LD
+E5OTAxNjE4MjksMjg3OTQxMjM5LDEzMzQzODc1MDYsLTEzOTc1
+MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5OTk2ND
+UsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyODZdfQ==
+
 -->
