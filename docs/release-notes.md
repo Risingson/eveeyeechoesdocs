@@ -8,7 +8,7 @@
 - Other minor improvements and a lot of fixes
 - Advertising removed. Eveeye is completely third party free
 - Browser subs remove nag banner on mobile aswell
-- 
+
 #### Release 1.03.0 - Feb 2021
 - Enhancements to Discord authentification  
 - Distance to Trade Center data option  
@@ -42,11 +42,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3NTY5MjY3LC0xNTIyMzE5NTUsLTE0MD
-MwMjcwNTcsMjA5NDc0Njc2OCw4Mzg3MzkyMzksLTExMDY1ODE1
-MjUsNDg5OTY5MDc1LDIwMDU1MDU3NTIsMTM3MzE5OTQ5MCwxMz
-IyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLDc2MjE0
-Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5OTIsMT
-M5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEz
-Mzk4NF19
+eyJoaXN0b3J5IjpbLTE1NTExMTIyODIsODk3NTY5MjY3LC0xNT
+IyMzE5NTUsLTE0MDMwMjcwNTcsMjA5NDc0Njc2OCw4Mzg3Mzky
+MzksLTExMDY1ODE1MjUsNDg5OTY5MDc1LDIwMDU1MDU3NTIsMT
+M3MzE5OTQ5MCwxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgz
+MDgyMzQzLDc2MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LD
+ExNDYxMTU5OTIsMTM5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OTEx
+MjM3MDRdfQ==
 -->
