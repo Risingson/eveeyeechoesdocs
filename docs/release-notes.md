@@ -1,11 +1,14 @@
 # Release Notes
 
 #### Release 1.04.0 - Feb 2022
-- Enhancements to Discord authentification  
-- Distance to Trade Center data option  
-- Shows closest Trade Center in distances  
-- Database sets can be shared publicly
-
+- Aonmaly Belt Count data option
+- Maximum Belt Count data option
+- Capsuleer Outpost Anchoring Limit data option
+- Control UI brightness and connection line width
+- Other minor improvements and a lot of fixes
+- Advertising removed. Eveeye is completely third party free
+- Browser subs remove nag banner on mobile aswell
+- 
 #### Release 1.03.0 - Feb 2021
 - Enhancements to Discord authentification  
 - Distance to Trade Center data option  
@@ -39,11 +42,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIzMTk1NSwtMTQwMzAyNzA1NywyMD
-k0NzQ2NzY4LDgzODczOTIzOSwtMTEwNjU4MTUyNSw0ODk5Njkw
-NzUsMjAwNTUwNTc1MiwxMzczMTk5NDkwLDEzMjIzNzcyODksLT
-E3MTM1NDE4ODAsLTE1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0
-ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC
-01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMzOTg0LC0xMTEx
-NzYwOTYxXX0=
+eyJoaXN0b3J5IjpbODk3NTY5MjY3LC0xNTIyMzE5NTUsLTE0MD
+MwMjcwNTcsMjA5NDc0Njc2OCw4Mzg3MzkyMzksLTExMDY1ODE1
+MjUsNDg5OTY5MDc1LDIwMDU1MDU3NTIsMTM3MzE5OTQ5MCwxMz
+IyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLDc2MjE0
+Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5OTIsMT
+M5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEz
+Mzk4NF19
 -->
