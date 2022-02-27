@@ -3,7 +3,7 @@
 #### Release 1.04.0 - Feb 2022
 - Jumprange features added
 - Structure mapping
-- Aonmaly Belt Count data option
+- Anomaly Belt Count data option
 - Maximum Belt Count data option
 - Capsuleer Outpost Anchoring Limit data option
 - Additional map overlay menu for fast setting access
@@ -45,11 +45,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzODMwMjU3LDg5NzU2OTI2NywtMTUyMj
-MxOTU1LC0xNDAzMDI3MDU3LDIwOTQ3NDY3NjgsODM4NzM5MjM5
-LC0xMTA2NTgxNTI1LDQ4OTk2OTA3NSwyMDA1NTA1NzUyLDEzNz
-MxOTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4MCwtMTU4MzA4
-MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4MjI0OCwxMT
-Q2MTE1OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2NCwxNjkxMTIz
-NzA0XX0=
+eyJoaXN0b3J5IjpbMzQ3MzI3NDM5LDk4MzgzMDI1Nyw4OTc1Nj
+kyNjcsLTE1MjIzMTk1NSwtMTQwMzAyNzA1NywyMDk0NzQ2NzY4
+LDgzODczOTIzOSwtMTEwNjU4MTUyNSw0ODk5NjkwNzUsMjAwNT
+UwNTc1MiwxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4
+ODAsLTE1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2Mz
+Y5ODIyNDgsMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5
+NjRdfQ==
 -->
