@@ -1,6 +1,8 @@
 # Release Notes
 
 #### Release 1.04.0 - Feb 2022
+- Jumprange features added
+- 
 - Aonmaly Belt Count data option
 - Maximum Belt Count data option
 - Capsuleer Outpost Anchoring Limit data option
@@ -42,11 +44,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTExMTIyODIsODk3NTY5MjY3LC0xNT
-IyMzE5NTUsLTE0MDMwMjcwNTcsMjA5NDc0Njc2OCw4Mzg3Mzky
-MzksLTExMDY1ODE1MjUsNDg5OTY5MDc1LDIwMDU1MDU3NTIsMT
-M3MzE5OTQ5MCwxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgz
-MDgyMzQzLDc2MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LD
-ExNDYxMTU5OTIsMTM5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OTEx
-MjM3MDRdfQ==
+eyJoaXN0b3J5IjpbLTYzNzcxMjkxNCw4OTc1NjkyNjcsLTE1Mj
+IzMTk1NSwtMTQwMzAyNzA1NywyMDk0NzQ2NzY4LDgzODczOTIz
+OSwtMTEwNjU4MTUyNSw0ODk5NjkwNzUsMjAwNTUwNTc1MiwxMz
+czMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMw
+ODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMT
+E0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEy
+MzcwNF19
 -->
