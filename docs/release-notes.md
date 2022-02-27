@@ -9,7 +9,7 @@
 - Additional map overlay menu for fast setting access
 - Control UI brightness and connection line width
 - Other minor improvements and a lot of fixes
-- Advertising removed. Eveeye is completely third party free
+- Advertising on mobile removed. Eveeye is completely third party free
 - Browser subs remove nag banner on mobile aswell
 
 #### Release 1.03.0 - Feb 2021
@@ -45,11 +45,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MzI3NDM5LDk4MzgzMDI1Nyw4OTc1Nj
-kyNjcsLTE1MjIzMTk1NSwtMTQwMzAyNzA1NywyMDk0NzQ2NzY4
-LDgzODczOTIzOSwtMTEwNjU4MTUyNSw0ODk5NjkwNzUsMjAwNT
-UwNTc1MiwxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4
-ODAsLTE1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2Mz
-Y5ODIyNDgsMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5
-NjRdfQ==
+eyJoaXN0b3J5IjpbLTgxMjI5NDMyNCwzNDczMjc0MzksOTgzOD
+MwMjU3LDg5NzU2OTI2NywtMTUyMjMxOTU1LC0xNDAzMDI3MDU3
+LDIwOTQ3NDY3NjgsODM4NzM5MjM5LC0xMTA2NTgxNTI1LDQ4OT
+k2OTA3NSwyMDA1NTA1NzUyLDEzNzMxOTk0OTAsMTMyMjM3NzI4
+OSwtMTcxMzU0MTg4MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMT
+g4MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1
+NTJdfQ==
 -->
