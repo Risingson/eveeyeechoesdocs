@@ -1,5 +1,5 @@
 # Release Notes
-!!! warning "Known Issues with latest release"
+!!! warning "Known issues with latest release"
     - Changing Jumpship and skills does not update range on universe map.
     
 #### Release 1.04.0 - Feb 2022
@@ -48,11 +48,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1NzE4NzE1LC0yMDk0NjAyOTEyLDM0Nz
-MyNzQzOSw5ODM4MzAyNTcsODk3NTY5MjY3LC0xNTIyMzE5NTUs
-LTE0MDMwMjcwNTcsMjA5NDc0Njc2OCw4Mzg3MzkyMzksLTExMD
-Y1ODE1MjUsNDg5OTY5MDc1LDIwMDU1MDU3NTIsMTM3MzE5OTQ5
-MCwxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLD
-c2MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTk1OTAzMzU3MywyMTU3MTg3MTUsLTIwOT
+Q2MDI5MTIsMzQ3MzI3NDM5LDk4MzgzMDI1Nyw4OTc1NjkyNjcs
+LTE1MjIzMTk1NSwtMTQwMzAyNzA1NywyMDk0NzQ2NzY4LDgzOD
+czOTIzOSwtMTEwNjU4MTUyNSw0ODk5NjkwNzUsMjAwNTUwNTc1
+MiwxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLT
+E1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIy
+NDhdfQ==
 -->
