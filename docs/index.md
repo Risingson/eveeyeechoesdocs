@@ -30,7 +30,8 @@ Join Eveeye <a href="https://discord.gg/S3yAUJMZQx">Discord</a><br>
 Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br>
 <!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
 Just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>  or use this [form to submit bugs](https://feedback.userreport.com/ad67f34b-9307-4c42-9cff-b38c932cc732/#submit/bug) <br>
-I am happy about any feedback.
+I am happy about any feedback.<br>
+[Known Issues](https://eveeye.readthedocs.io/en/latest/issues/)
 
 ## Sponsorship
 I have been developing Eveeye in my spare time [since 2006](https://eveeye.readthedocs.io/en/latest/history/).
@@ -50,11 +51,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc5MTA4MDMsLTcwMTI2NDMwNSwtMT
-U2MzAzNDg0MCwxMzAxMDcyOTczLDUyNjE3MjE5MywtMTUzNDMz
-NjU0MCwtNTgyNDM4ODk4LC05NTk4NTU3MywtNzEwMzQ4Mzg0LD
-E0NDUzNjc5NDcsLTE2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1
-MTkzOTg1LC0xODIzNDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNz
-UyLDE0OTAyODY0ODEsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEw
-NjYxNTUxMjJdfQ==
+eyJoaXN0b3J5IjpbMTAwNDEyMTYwMSwtMTkzNzkxMDgwMywtNz
+AxMjY0MzA1LC0xNTYzMDM0ODQwLDEzMDEwNzI5NzMsNTI2MTcy
+MTkzLC0xNTM0MzM2NTQwLC01ODI0Mzg4OTgsLTk1OTg1NTczLC
+03MTAzNDgzODQsMTQ0NTM2Nzk0NywtMTYxNTY5MDAzOSwtNDQw
+MTg1MDczLC05NDUxOTM5ODUsLTE4MjM0MTMyNzYsLTg2MDA0Mj
+czNiw5MTg1MTM3NTIsMTQ5MDI4NjQ4MSwxNDYzODczOTY0LDE2
+NzAyNTU1MzBdfQ==
 -->
