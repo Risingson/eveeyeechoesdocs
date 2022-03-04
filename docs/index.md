@@ -24,11 +24,13 @@ Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-dec
 <!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
 You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too
 
-## Feedback
-I am happy about any feedback.
+## Feedback, Support & Social
 
-[Submit Bugs](https://feedback.userreport.com/ad67f34b-9307-4c42-9cff-b38c932cc732/#submit/bug) <br>
-Or just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>
+Join Eveeye <a href="https://discord.gg/S3yAUJMZQx">Discord</a><br>
+Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br>
+<!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
+Just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>  or use this [form to submit bugs](https://feedback.userreport.com/ad67f34b-9307-4c42-9cff-b38c932cc732/#submit/bug) <br>
+I am happy about any feedback.
 
 ## Sponsorship
 I have been developing Eveeye in my spare time [since 2006](https://eveeye.readthedocs.io/en/latest/history/).
@@ -48,11 +50,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTI2NDMwNSwtMTU2MzAzNDg0MCwxMz
-AxMDcyOTczLDUyNjE3MjE5MywtMTUzNDMzNjU0MCwtNTgyNDM4
-ODk4LC05NTk4NTU3MywtNzEwMzQ4Mzg0LDE0NDUzNjc5NDcsLT
-E2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIz
-NDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLDE0OTAyODY0OD
-EsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYxNTUxMjIsLTE0
-MjMyMjA5XX0=
+eyJoaXN0b3J5IjpbLTE5Mzc5MTA4MDMsLTcwMTI2NDMwNSwtMT
+U2MzAzNDg0MCwxMzAxMDcyOTczLDUyNjE3MjE5MywtMTUzNDMz
+NjU0MCwtNTgyNDM4ODk4LC05NTk4NTU3MywtNzEwMzQ4Mzg0LD
+E0NDUzNjc5NDcsLTE2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1
+MTkzOTg1LC0xODIzNDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNz
+UyLDE0OTAyODY0ODEsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEw
+NjYxNTUxMjJdfQ==
 -->
