@@ -1,7 +1,5 @@
 # Release Notes
-!!! warning "Known issues with latest release"
-    - Changing jumprange settings does not update range on universe map.
-    
+
 #### Release 1.04.0 - Feb 2022
 - Major improvements to universe map
 - Jumprange features added
@@ -48,11 +46,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY0MDYxMjgsMjE1NzE4NzE1LC0yMD
-k0NjAyOTEyLDM0NzMyNzQzOSw5ODM4MzAyNTcsODk3NTY5MjY3
-LC0xNTIyMzE5NTUsLTE0MDMwMjcwNTcsMjA5NDc0Njc2OCw4Mz
-g3MzkyMzksLTExMDY1ODE1MjUsNDg5OTY5MDc1LDIwMDU1MDU3
-NTIsMTM3MzE5OTQ5MCwxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC
-0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgy
-MjQ4XX0=
+eyJoaXN0b3J5IjpbLTIwOTQ2MDI5MTIsLTE1MDY0MDYxMjgsMj
+E1NzE4NzE1LC0yMDk0NjAyOTEyLDM0NzMyNzQzOSw5ODM4MzAy
+NTcsODk3NTY5MjY3LC0xNTIyMzE5NTUsLTE0MDMwMjcwNTcsMj
+A5NDc0Njc2OCw4Mzg3MzkyMzksLTExMDY1ODE1MjUsNDg5OTY5
+MDc1LDIwMDU1MDU3NTIsMTM3MzE5OTQ5MCwxMzIyMzc3Mjg5LC
+0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxODgz
+NDg1NjhdfQ==
 -->
