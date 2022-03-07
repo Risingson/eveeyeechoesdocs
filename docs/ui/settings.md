@@ -39,7 +39,7 @@ Match your skills and fit for the app to calc your range and fuel correctly.
 ## Route
 #### Display Route
 Will display your route on the map after you used "Set Destination/Waypoint" from solarsystem menu.
-#### Avoid Nullsec/Shorter/Safer/Less Safe Route
+#### Avoid Nullsec/Shorter/Safer/Less Secure Route
 Set your preferred travel security. This should match your ingame setting.
 #### Avoid Systems
 Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown. This should match your ingame setting. 
@@ -53,7 +53,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjU4MzIwMCw5ODI3MDU1NzMsLTkwMj
+eyJoaXN0b3J5IjpbLTMzMDcwMjc3NCw5ODI3MDU1NzMsLTkwMj
 U5Nzk5OSwxMjUxNzg0OSwxOTY2NzY3MzgzLDY3MDAzMzgzMSwt
 MTM2MjkzNDI1MiwtMTMwNzc0NzE2MCwtMjA1MDMyNjIxNiwxMj
 E5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3
