@@ -12,30 +12,7 @@
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png)|Destination solarsystem|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end_sta.png)|Destination station|
 
-### Information
-
-|  |  |
-|--|--|
-| # | Number of system in route |
-| N | NPC Kills within 1 hour (CCP API) |
-| J | Jumps within 1 hour (CCP API) |
-| K | Kills within 1 hour (CCP API) |
-| Gatekills | Kills within 1 hour (zKill fetched every 5 min) |
-| red number at jumpdrive jumps | Cooldown after jump in minutes |
-| cyan number at jumpdrive jumps | Fatigue after jump in minutes |
-| alliance/faction name | IHUB sovereignty or faction of the system |
-
-### Gatekills
-
-|  |  |
-|--|--|
-| Red Background  | Kills on gates on route within 60 min |
-| Blue background  | Kills in system or at a gate not on your route within 60 min |
-| Blinking background  | Kills within 20 min |
-
-### Example
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc4Mjg5MDJdfQ==
+eyJoaXN0b3J5IjpbLTM2OTY5MjY0MV19
 -->
