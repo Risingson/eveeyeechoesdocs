@@ -1,4 +1,5 @@
 # Jump Planning
+Will plan a route using your ship's jump-drive with features for Jump-freighter pilots.
 
 ### Enabling using a jump-drvie for route planning
 Enable `Use Jumpdrive` in `ROUTE` settings.<br>
@@ -44,5 +45,5 @@ After right-clicking or doubletapping a system on mobile in addition to [general
     Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODE1NDM0NV19
+eyJoaXN0b3J5IjpbNzc2NDk4OTAsMTA1ODE1NDM0NV19
 -->
