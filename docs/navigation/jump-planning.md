@@ -1,5 +1,4 @@
 # Jump Planning
-
 Will plan a route using your ship's jump-drive with features for Jump-freighter pilots.
 
 ### Terminology
@@ -45,6 +44,6 @@ After right-clicking or doubletapping a system on mobile in addition to [general
     Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkyNjMzODcsLTcxMDUyMzk5NSwxMD
-U4MTU0MzQ1XX0=
+eyJoaXN0b3J5IjpbLTg2NjkwNDM2NSwtNzEwNTIzOTk1LDEwNT
+gxNTQzNDVdfQ==
 -->
