@@ -17,7 +17,6 @@ On top of a route the following icons will be displayed:
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time. 
     
 #### Route Display
-
 |  |  |
 |--|--|
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) | Current system|
@@ -25,6 +24,9 @@ On top of a route the following icons will be displayed:
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_thru.png)|Fly thru system with npc station|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wp.png)|Waypoint solarsystem|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_sta.png)|Waypoint station|
+|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jb.png)|Waypoint jumpbridge|
+|![line](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jmp2.png)|Midpoint (jumpdrive)|
+|![line](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jmp2_sta.png)|Midpoint with station in system (jumpdrive)|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png)|Destination solarsystem|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end_sta.png)|Destination station|
 
@@ -45,5 +47,5 @@ Clicking the colored square or else in the route legend will trigger a menu with
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjc4Nzk4OSwtMjA3MDc2Njk1NV19
+eyJoaXN0b3J5IjpbMjEzMDQ5ODYwMiwtMjA3MDc2Njk1NV19
 -->
