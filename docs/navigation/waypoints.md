@@ -34,13 +34,16 @@ Clicking the colored square or else in the route legend will trigger a menu with
 
 |  |  |
 |--|--|
-| Clear Route | Will clear your route ingame and in eveeye |
-| Turn into Waypoint | Will stop your ship in this system if autopiloting |
-| Remove Waypoint | Will not stop your ship in this system if autopiloting |
-| Add again at end of route | Will add that system as a waypoint to the end of your route |
-| Set sole destination | Will clear current route and set that system as destination |
+| `Clear entire Route` | Will clear your route ingame and in eveeye |
+| `Turn into Waypoint` | Will stop your ship in this system if autopiloting |
+| `Remove Waypoint` | Will not stop your ship in this system if autopiloting |
+| `Append Gate Destination` | Will add that system as a waypoint to the end of your route |
+| `Set Gate destination` | Will clear current route and set that system as destination |
+
+!!! attention “Color of menu entries”
+    Options involving navigation got a *yellow* color. Options involving the jump-drive got an *orange* color instead.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA3NjY5NTVdfQ==
+eyJoaXN0b3J5IjpbLTcxMjc4Nzk4OSwtMjA3MDc2Njk1NV19
 -->
