@@ -28,8 +28,9 @@ nav:
     - Miscellaneous: data/misc.md
     - Database Sets: data/database.md   
 - Navigation:
-    - Waypoints: navigation/waypoints.md     
-    - Jumprange: navigation/jumprange.md     
+    - Waypoints: navigation/waypoints.md 
+    - Jump Planning: navigation/jump-planning.md 
+    - Jumprange display: navigation/jumprange.md 
 - Data Sharing:    
     - Character Management: sync/character-management.md
     - Cloud: sharing/cloud.md
