@@ -25,7 +25,7 @@ Set your jump-ship and skills in `JUMP` settings.<br>
 
 ### How to plot a route
 #### Choosing the system to start the route from
-Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it or right-clicking it and choosing `Set Current System` from the menu.
+<!--When tracking location that would be your current location system. If not tracking location you can -->Set a system your current location by doubleclicking it or right-clicking it and choosing `Set Current System` from the menu.
 
 #### Menu options
 After right-clicking or doubletapping a system on mobile in addition to [general and gate route options](https://eveeyeechoes.readthedocs.io/en/latest/navigation/waypoints/#route-manipulation) you will get presented with the following navigation options where applicable.
@@ -52,5 +52,5 @@ After right-clicking or doubletapping a system on mobile in addition to [general
     Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTk4NjM5MiwxMDU4MTU0MzQ1XX0=
+eyJoaXN0b3J5IjpbLTE4MTM1ODU5OTEsMTA1ODE1NDM0NV19
 -->
