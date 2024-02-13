@@ -15,7 +15,7 @@ Interactive intel map system and chain mapping forfor [Eve Echoes](https://www.e
 
 ## Platforms
 
-[Browser](https://echoes.eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-echoes/id1527744540), [Android](https://play.google.com/store/apps/details?id=com.eveeye.echoes) 
+[Browser](https://echoes.eveeye.com)<!--, [iOS](https://apps.apple.com/us/app/eveeye-for-eve-echoes/id1527744540), [Android](https://play.google.com/store/apps/details?id=com.eveeye.echoes) -->
 
 ## Support & Social
 
@@ -51,11 +51,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDEyMTYwMSwtMTkzNzkxMDgwMywtNz
-AxMjY0MzA1LC0xNTYzMDM0ODQwLDEzMDEwNzI5NzMsNTI2MTcy
-MTkzLC0xNTM0MzM2NTQwLC01ODI0Mzg4OTgsLTk1OTg1NTczLC
-03MTAzNDgzODQsMTQ0NTM2Nzk0NywtMTYxNTY5MDAzOSwtNDQw
-MTg1MDczLC05NDUxOTM5ODUsLTE4MjM0MTMyNzYsLTg2MDA0Mj
-czNiw5MTg1MTM3NTIsMTQ5MDI4NjQ4MSwxNDYzODczOTY0LDE2
-NzAyNTU1MzBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTUyNDQ4NTIsMTAwNDEyMTYwMSwtMT
+kzNzkxMDgwMywtNzAxMjY0MzA1LC0xNTYzMDM0ODQwLDEzMDEw
+NzI5NzMsNTI2MTcyMTkzLC0xNTM0MzM2NTQwLC01ODI0Mzg4OT
+gsLTk1OTg1NTczLC03MTAzNDgzODQsMTQ0NTM2Nzk0NywtMTYx
+NTY5MDAzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLTE4MjM0MT
+MyNzYsLTg2MDA0MjczNiw5MTg1MTM3NTIsMTQ5MDI4NjQ4MSwx
+NDYzODczOTY0XX0=
 -->
